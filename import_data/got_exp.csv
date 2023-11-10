@@ -1,0 +1,1081 @@
+country,year,variable,value
+The North,309,tax_income,588159114.2924397
+The North,309,state_expenditure,508669285.23059344
+The North,309,military_expenditure,52692733.91370396
+The North,308,tax_income,606812662.0415499
+The North,308,state_expenditure,518602859.4184058
+The North,308,military_expenditure,53291228.01271607
+The North,307,tax_income,596698482.7691605
+The North,307,state_expenditure,528812604.9027381
+The North,307,military_expenditure,50778987.8415155
+The North,306,tax_income,623429518.0996159
+The North,306,state_expenditure,552874226.389576
+The North,306,military_expenditure,50446507.11145078
+The North,305,tax_income,627082113.7721288
+The North,305,state_expenditure,558291130.5657951
+The North,305,military_expenditure,51146238.55162178
+The North,304,tax_income,625626389.6159711
+The North,304,state_expenditure,585041162.3659307
+The North,304,military_expenditure,50216464.00867763
+The North,303,tax_income,639102933.9281212
+The North,303,state_expenditure,566358059.6578978
+The North,303,military_expenditure,48433462.02072479
+The North,302,tax_income,665297431.046982
+The North,302,state_expenditure,584674949.9244573
+The North,302,military_expenditure,47412304.79999601
+The North,301,tax_income,635219200.6035519
+The North,301,state_expenditure,562526266.1051806
+The North,301,military_expenditure,49285327.175886676
+The North,300,tax_income,649348139.1868064
+The North,300,state_expenditure,580556349.8726033
+The North,300,military_expenditure,49573943.757016584
+The Vale,309,tax_income,2940833011.1026387
+The Vale,309,state_expenditure,646831424.864223
+The Vale,309,military_expenditure,407536092.98443806
+The Vale,308,tax_income,2829791614.8621254
+The Vale,308,state_expenditure,639012366.821296
+The Vale,308,military_expenditure,396254624.6486228
+The Vale,307,tax_income,2922588530.4835877
+The Vale,307,state_expenditure,633070012.3551593
+The Vale,307,military_expenditure,404879796.2615605
+The Vale,306,tax_income,3061701603.0647635
+The Vale,306,state_expenditure,656376067.2139518
+The Vale,306,military_expenditure,395852024.4036776
+The Vale,305,tax_income,3014863478.761105
+The Vale,305,state_expenditure,635427790.0865549
+The Vale,305,military_expenditure,411944393.0215364
+The Vale,304,tax_income,2901989127.545761
+The Vale,304,state_expenditure,650999167.4919484
+The Vale,304,military_expenditure,420976236.5713198
+The Vale,303,tax_income,2998977696.5006123
+The Vale,303,state_expenditure,621016236.4575883
+The Vale,303,military_expenditure,421428059.0476144
+The Vale,302,tax_income,2978967537.1119094
+The Vale,302,state_expenditure,607127850.1109486
+The Vale,302,military_expenditure,442537883.6593603
+The Vale,301,tax_income,3034013486.305891
+The Vale,301,state_expenditure,619174466.0478121
+The Vale,301,military_expenditure,464455520.289548
+The Vale,300,tax_income,2954351382.95237
+The Vale,300,state_expenditure,617441054.1073627
+The Vale,300,military_expenditure,448727585.72939616
+The Iron Islands,309,tax_income,468746314.9775338
+The Iron Islands,309,state_expenditure,443155956.2995667
+The Iron Islands,309,military_expenditure,247926823.04706225
+The Iron Islands,308,tax_income,447171503.95871484
+The Iron Islands,308,state_expenditure,443126510.76611793
+The Iron Islands,308,military_expenditure,258777451.1728477
+The Iron Islands,307,tax_income,468604633.300436
+The Iron Islands,307,state_expenditure,451564970.37688625
+The Iron Islands,307,military_expenditure,266213042.7256649
+The Iron Islands,306,tax_income,489052752.3326457
+The Iron Islands,306,state_expenditure,475034696.00584596
+The Iron Islands,306,military_expenditure,279394822.58897984
+The Iron Islands,305,tax_income,473236689.39603233
+The Iron Islands,305,state_expenditure,491290001.64821386
+The Iron Islands,305,military_expenditure,276815021.89852595
+The Iron Islands,304,tax_income,486106779.5104543
+The Iron Islands,304,state_expenditure,474864666.63039386
+The Iron Islands,304,military_expenditure,277623934.7229315
+The Iron Islands,303,tax_income,501836748.6785257
+The Iron Islands,303,state_expenditure,476807049.29205996
+The Iron Islands,303,military_expenditure,271885278.0767269
+The Iron Islands,302,tax_income,478606509.5272711
+The Iron Islands,302,state_expenditure,501293695.0200158
+The Iron Islands,302,military_expenditure,285059626.32620907
+The Iron Islands,301,tax_income,498029124.65681344
+The Iron Islands,301,state_expenditure,509836517.11708045
+The Iron Islands,301,military_expenditure,278155272.82075804
+The Iron Islands,300,tax_income,522970361.55386084
+The Iron Islands,300,state_expenditure,502947013.870445
+The Iron Islands,300,military_expenditure,270901915.91436636
+The Riverlands,309,tax_income,3175894271.089878
+The Riverlands,309,state_expenditure,2497016781.984157
+The Riverlands,309,military_expenditure,1432924714.508724
+The Riverlands,308,tax_income,3177172876.1174154
+The Riverlands,308,state_expenditure,2469201188.2400017
+The Riverlands,308,military_expenditure,1380105420.7366915
+The Riverlands,307,tax_income,3198874114.247597
+The Riverlands,307,state_expenditure,2407932723.0669928
+The Riverlands,307,military_expenditure,1328109905.7670734
+The Riverlands,306,tax_income,3097635145.4028964
+The Riverlands,306,state_expenditure,2309862651.7104607
+The Riverlands,306,military_expenditure,1284754348.841442
+The Riverlands,305,tax_income,3108611591.3613067
+The Riverlands,305,state_expenditure,2288945707.0023956
+The Riverlands,305,military_expenditure,1312440739.6033213
+The Riverlands,304,tax_income,3165182123.76437
+The Riverlands,304,state_expenditure,2398619407.484741
+The Riverlands,304,military_expenditure,1261637030.369392
+The Riverlands,303,tax_income,3195731891.3807716
+The Riverlands,303,state_expenditure,2314376551.1412253
+The Riverlands,303,military_expenditure,1281606461.586924
+The Riverlands,302,tax_income,3096402879.16505
+The Riverlands,302,state_expenditure,2259370926.1515613
+The Riverlands,302,military_expenditure,1341837613.9446619
+The Riverlands,301,tax_income,3131842687.355174
+The Riverlands,301,state_expenditure,2190023661.0839224
+The Riverlands,301,military_expenditure,1321098086.1430433
+The Riverlands,300,tax_income,3135398952.8966036
+The Riverlands,300,state_expenditure,2173588387.1896663
+The Riverlands,300,military_expenditure,1316108588.536299
+The Westerlands,309,tax_income,989268060.4191576
+The Westerlands,309,state_expenditure,876794143.7748098
+The Westerlands,309,military_expenditure,527238874.4843939
+The Westerlands,308,tax_income,970028960.4617387
+The Westerlands,308,state_expenditure,884835087.0063314
+The Westerlands,308,military_expenditure,536071807.5988857
+The Westerlands,307,tax_income,979302484.7887499
+The Westerlands,307,state_expenditure,843930120.3979744
+The Westerlands,307,military_expenditure,516499321.347082
+The Westerlands,306,tax_income,958119937.126028
+The Westerlands,306,state_expenditure,880835043.5558308
+The Westerlands,306,military_expenditure,538269337.5758054
+The Westerlands,305,tax_income,924250860.0988122
+The Westerlands,305,state_expenditure,843408441.0177519
+The Westerlands,305,military_expenditure,522542366.4040516
+The Westerlands,304,tax_income,969858623.0648067
+The Westerlands,304,state_expenditure,871967864.7658223
+The Westerlands,304,military_expenditure,532209820.93439484
+The Westerlands,303,tax_income,933195836.1178305
+The Westerlands,303,state_expenditure,839285199.5414983
+The Westerlands,303,military_expenditure,527824029.4060823
+The Westerlands,302,tax_income,976172684.6030786
+The Westerlands,302,state_expenditure,868460929.4517989
+The Westerlands,302,military_expenditure,510435818.3008326
+The Westerlands,301,tax_income,971703680.0517051
+The Westerlands,301,state_expenditure,913408480.5897563
+The Westerlands,301,military_expenditure,516784538.80517876
+The Westerlands,300,tax_income,931482050.8194662
+The Westerlands,300,state_expenditure,872041184.1583613
+The Westerlands,300,military_expenditure,506851928.49612844
+The Reach,309,tax_income,1488292629.0229766
+The Reach,309,state_expenditure,3177433807.635202
+The Reach,309,military_expenditure,470670167.56492776
+The Reach,308,tax_income,1560915830.0025864
+The Reach,308,state_expenditure,3074399126.579529
+The Reach,308,military_expenditure,461926908.8379194
+The Reach,307,tax_income,1497528812.3392565
+The Reach,307,state_expenditure,2964910306.6577964
+The Reach,307,military_expenditure,474526593.33612376
+The Reach,306,tax_income,1526865744.4681842
+The Reach,306,state_expenditure,2990188728.9243016
+The Reach,306,military_expenditure,493598889.6483776
+The Reach,305,tax_income,1595079697.1774216
+The Reach,305,state_expenditure,2971101340.910644
+The Reach,305,military_expenditure,480893291.01790595
+The Reach,304,tax_income,1603352007.637857
+The Reach,304,state_expenditure,3009557282.044814
+The Reach,304,military_expenditure,501869661.42492175
+The Reach,303,tax_income,1648784613.2449558
+The Reach,303,state_expenditure,2962883618.643823
+The Reach,303,military_expenditure,512094044.9099809
+The Reach,302,tax_income,1671122897.5691395
+The Reach,302,state_expenditure,3091848695.7718997
+The Reach,302,military_expenditure,488639760.5470908
+The Reach,301,tax_income,1671259240.5746284
+The Reach,301,state_expenditure,3147264744.141718
+The Reach,301,military_expenditure,507526798.9790335
+The Reach,300,tax_income,1713340313.0062752
+The Reach,300,state_expenditure,3116120385.6641808
+The Reach,300,military_expenditure,524082813.67848057
+The Stormlands,309,tax_income,577194465.8580734
+The Stormlands,309,state_expenditure,509131242.8346558
+The Stormlands,309,military_expenditure,169542090.51025987
+The Stormlands,308,tax_income,565596346.4018099
+The Stormlands,308,state_expenditure,505504241.2318628
+The Stormlands,308,military_expenditure,162720266.15167555
+The Stormlands,307,tax_income,549374207.7701799
+The Stormlands,307,state_expenditure,531706628.71879876
+The Stormlands,307,military_expenditure,170711301.12443715
+The Stormlands,306,tax_income,529801830.39122736
+The Stormlands,306,state_expenditure,526538675.2929437
+The Stormlands,306,military_expenditure,163532171.13364846
+The Stormlands,305,tax_income,519208022.0753579
+The Stormlands,305,state_expenditure,539455572.508252
+The Stormlands,305,military_expenditure,169183818.05387634
+The Stormlands,304,tax_income,499792705.8726795
+The Stormlands,304,state_expenditure,560931169.7504202
+The Stormlands,304,military_expenditure,177326395.5172118
+The Stormlands,303,tax_income,501359054.81382924
+The Stormlands,303,state_expenditure,566714740.4226915
+The Stormlands,303,military_expenditure,184628546.47502545
+The Stormlands,302,tax_income,489829664.48563343
+The Stormlands,302,state_expenditure,594321796.6971562
+The Stormlands,302,military_expenditure,188538690.19428033
+The Stormlands,301,tax_income,503002662.2666305
+The Stormlands,301,state_expenditure,592140808.95708
+The Stormlands,301,military_expenditure,183876138.3687743
+The Stormlands,300,tax_income,492382267.15230113
+The Stormlands,300,state_expenditure,570403625.7484897
+The Stormlands,300,military_expenditure,178316830.5771789
+Dorne,309,tax_income,2938197449.620725
+Dorne,309,state_expenditure,3063828928.0525217
+Dorne,309,military_expenditure,537134827.490818
+Dorne,308,tax_income,2887503729.292751
+Dorne,308,state_expenditure,3172258734.6284075
+Dorne,308,military_expenditure,559902035.5479392
+Dorne,307,tax_income,2955599084.5363007
+Dorne,307,state_expenditure,3096965363.891029
+Dorne,307,military_expenditure,555789926.476901
+Dorne,306,tax_income,3073488624.344943
+Dorne,306,state_expenditure,3077779289.6359067
+Dorne,306,military_expenditure,544928927.1452872
+Dorne,305,tax_income,2964838819.252924
+Dorne,305,state_expenditure,3011356649.0268154
+Dorne,305,military_expenditure,521712075.4902859
+Dorne,304,tax_income,2838634352.565043
+Dorne,304,state_expenditure,3023734092.040179
+Dorne,304,military_expenditure,521227511.0722567
+Dorne,303,tax_income,2933081191.251595
+Dorne,303,state_expenditure,3040468764.5373893
+Dorne,303,military_expenditure,505994889.145531
+Dorne,302,tax_income,2864773454.069943
+Dorne,302,state_expenditure,3134648503.4557524
+Dorne,302,military_expenditure,524091379.8609144
+Dorne,301,tax_income,2882903237.2379446
+Dorne,301,state_expenditure,3132534955.3427334
+Dorne,301,military_expenditure,507183836.9292323
+Dorne,300,tax_income,2852993974.1748857
+Dorne,300,state_expenditure,3187953407.372282
+Dorne,300,military_expenditure,489165526.8141976
+Pentos,309,tax_income,2505413716.244729
+Pentos,309,state_expenditure,1352560246.167557
+Pentos,309,military_expenditure,894065623.027486
+Pentos,308,tax_income,2402806709.595087
+Pentos,308,state_expenditure,1303421511.9154193
+Pentos,308,military_expenditure,914853434.4929473
+Pentos,307,tax_income,2510606223.5517387
+Pentos,307,state_expenditure,1301041655.7505255
+Pentos,307,military_expenditure,900141637.3571409
+Pentos,306,tax_income,2528860153.7452173
+Pentos,306,state_expenditure,1349271329.8361497
+Pentos,306,military_expenditure,939101164.6827683
+Pentos,305,tax_income,2566015390.973194
+Pentos,305,state_expenditure,1412942909.4990447
+Pentos,305,military_expenditure,974415780.1255999
+Pentos,304,tax_income,2599632700.4973297
+Pentos,304,state_expenditure,1459104643.5537064
+Pentos,304,military_expenditure,1007528229.1207504
+Pentos,303,tax_income,2585248856.146923
+Pentos,303,state_expenditure,1455487418.3187997
+Pentos,303,military_expenditure,968671768.7293134
+Pentos,302,tax_income,2698180453.830725
+Pentos,302,state_expenditure,1436274166.8673632
+Pentos,302,military_expenditure,953842242.8637773
+Pentos,301,tax_income,2790879045.8995047
+Pentos,301,state_expenditure,1449672325.279342
+Pentos,301,military_expenditure,960455614.6193277
+Pentos,300,tax_income,2689958995.5471954
+Pentos,300,state_expenditure,1407756215.7774963
+Pentos,300,military_expenditure,950069002.8259543
+Lys,309,tax_income,1372057329.8144908
+Lys,309,state_expenditure,1298611059.8400328
+Lys,309,military_expenditure,655985302.6833006
+Lys,308,tax_income,1352280074.5926025
+Lys,308,state_expenditure,1348776950.6533482
+Lys,308,military_expenditure,656474935.3051088
+Lys,307,tax_income,1358135452.7945998
+Lys,307,state_expenditure,1362771614.1021612
+Lys,307,military_expenditure,627352452.3754356
+Lys,306,tax_income,1354070409.1160254
+Lys,306,state_expenditure,1378387574.173992
+Lys,306,military_expenditure,609980639.8391266
+Lys,305,tax_income,1321625759.0455682
+Lys,305,state_expenditure,1381525920.064173
+Lys,305,military_expenditure,586473958.739926
+Lys,304,tax_income,1370090231.7079866
+Lys,304,state_expenditure,1365209013.583481
+Lys,304,military_expenditure,580044875.9072994
+Lys,303,tax_income,1398906181.9376726
+Lys,303,state_expenditure,1406338381.488608
+Lys,303,military_expenditure,604753572.8422538
+Lys,302,tax_income,1452593942.6559756
+Lys,302,state_expenditure,1406518554.2869003
+Lys,302,military_expenditure,618422710.1909523
+Lys,301,tax_income,1399181293.2295334
+Lys,301,state_expenditure,1368687701.285816
+Lys,301,military_expenditure,621661410.0788108
+Lys,300,tax_income,1348826815.119785
+Lys,300,state_expenditure,1418371207.8803241
+Lys,300,military_expenditure,616573062.8574576
+Myr,309,tax_income,221849596.27098125
+Myr,309,state_expenditure,617013984.9770507
+Myr,309,military_expenditure,194411059.30569443
+Myr,308,tax_income,216118644.89829367
+Myr,308,state_expenditure,588064966.5266697
+Myr,308,military_expenditure,197533388.13789174
+Myr,307,tax_income,212234697.0324409
+Myr,307,state_expenditure,604367706.7015972
+Myr,307,military_expenditure,191000002.32180402
+Myr,306,tax_income,214660894.6889129
+Myr,306,state_expenditure,621842954.0948234
+Myr,306,military_expenditure,197488454.22846353
+Myr,305,tax_income,205085129.06123698
+Myr,305,state_expenditure,594453455.3428438
+Myr,305,military_expenditure,207457546.13716716
+Myr,304,tax_income,208265687.76778552
+Myr,304,state_expenditure,596130267.9263905
+Myr,304,military_expenditure,211711283.36368573
+Myr,303,tax_income,216101915.05989432
+Myr,303,state_expenditure,618438274.2209692
+Myr,303,military_expenditure,204323910.9938421
+Myr,302,tax_income,206035256.16069528
+Myr,302,state_expenditure,644059938.689747
+Myr,302,military_expenditure,203137308.04753515
+Myr,301,tax_income,198416779.92839593
+Myr,301,state_expenditure,668617002.846861
+Myr,301,military_expenditure,212732160.41385326
+Myr,300,tax_income,203871848.46561477
+Myr,300,state_expenditure,650585766.0816867
+Myr,300,military_expenditure,209436260.32753626
+Volantis,309,tax_income,2072346733.837679
+Volantis,309,state_expenditure,1234589814.9531448
+Volantis,309,military_expenditure,174463501.24224138
+Volantis,308,tax_income,2079311367.7452054
+Volantis,308,state_expenditure,1262518557.6424515
+Volantis,308,military_expenditure,174490802.089522
+Volantis,307,tax_income,2082952448.1942577
+Volantis,307,state_expenditure,1208080386.3385231
+Volantis,307,military_expenditure,178130870.41470465
+Volantis,306,tax_income,2101318455.2309284
+Volantis,306,state_expenditure,1266487493.0939744
+Volantis,306,military_expenditure,174106114.41037005
+Volantis,305,tax_income,2079043122.2309318
+Volantis,305,state_expenditure,1212175718.5370615
+Volantis,305,military_expenditure,176978675.99575981
+Volantis,304,tax_income,2126249808.0186045
+Volantis,304,state_expenditure,1198244421.2999265
+Volantis,304,military_expenditure,175340630.70269412
+Volantis,303,tax_income,2134491012.7705574
+Volantis,303,state_expenditure,1162787145.9941766
+Volantis,303,military_expenditure,167470174.02377582
+Volantis,302,tax_income,2034885367.6217287
+Volantis,302,state_expenditure,1183567620.18578
+Volantis,302,military_expenditure,175784488.3573743
+Volantis,301,tax_income,2045636295.6612182
+Volantis,301,state_expenditure,1222891294.535931
+Volantis,301,military_expenditure,176766444.9593026
+Volantis,300,tax_income,2152549300.9551134
+Volantis,300,state_expenditure,1172403767.7256057
+Volantis,300,military_expenditure,169530051.76877996
+Braavos,309,tax_income,2322182012.4972086
+Braavos,309,state_expenditure,1641855243.9668326
+Braavos,309,military_expenditure,496067695.59507954
+Braavos,308,tax_income,2330386954.644891
+Braavos,308,state_expenditure,1702689664.8371003
+Braavos,308,military_expenditure,474192711.77674323
+Braavos,307,tax_income,2363347933.8579617
+Braavos,307,state_expenditure,1716562207.5432525
+Braavos,307,military_expenditure,472759728.3892156
+Braavos,306,tax_income,2406276250.5974135
+Braavos,306,state_expenditure,1727776338.3016038
+Braavos,306,military_expenditure,474515337.4960202
+Braavos,305,tax_income,2398108447.3194895
+Braavos,305,state_expenditure,1650542590.609971
+Braavos,305,military_expenditure,456077709.4358014
+Braavos,304,tax_income,2316845741.022025
+Braavos,304,state_expenditure,1674337370.6770465
+Braavos,304,military_expenditure,473494246.94951546
+Braavos,303,tax_income,2302676772.8303385
+Braavos,303,state_expenditure,1703847875.250144
+Braavos,303,military_expenditure,494545152.7389393
+Braavos,302,tax_income,2302931066.3247766
+Braavos,302,state_expenditure,1672330375.951861
+Braavos,302,military_expenditure,492343289.074139
+Braavos,301,tax_income,2374117749.7862096
+Braavos,301,state_expenditure,1598107601.8524525
+Braavos,301,military_expenditure,508918071.8143187
+Braavos,300,tax_income,2347386026.229081
+Braavos,300,state_expenditure,1546389376.1519747
+Braavos,300,military_expenditure,522213580.19127995
+Norvos,309,tax_income,232945077.2218332
+Norvos,309,state_expenditure,214920069.76962435
+Norvos,309,military_expenditure,66919481.44460179
+Norvos,308,tax_income,242158387.25531486
+Norvos,308,state_expenditure,212916512.3717498
+Norvos,308,military_expenditure,67182144.70215632
+Norvos,307,tax_income,237882228.19589528
+Norvos,307,state_expenditure,219793219.8522761
+Norvos,307,military_expenditure,66550567.17466728
+Norvos,306,tax_income,249863163.7079257
+Norvos,306,state_expenditure,213681009.37351826
+Norvos,306,military_expenditure,67444516.45649312
+Norvos,305,tax_income,255097484.971632
+Norvos,305,state_expenditure,218698633.1589464
+Norvos,305,military_expenditure,69620368.3355504
+Norvos,304,tax_income,264469949.10947835
+Norvos,304,state_expenditure,222152774.75631893
+Norvos,304,military_expenditure,71632638.41894278
+Norvos,303,tax_income,251974072.30432618
+Norvos,303,state_expenditure,219254718.96959847
+Norvos,303,military_expenditure,70955004.82098006
+Norvos,302,tax_income,240864046.34249857
+Norvos,302,state_expenditure,223855733.93318284
+Norvos,302,military_expenditure,70091513.47714177
+Norvos,301,tax_income,243212445.80369064
+Norvos,301,state_expenditure,215270820.52982613
+Norvos,301,military_expenditure,71799288.41979592
+Norvos,300,tax_income,246355428.44358978
+Norvos,300,state_expenditure,209505719.68481937
+Norvos,300,military_expenditure,69490875.52174622
+Lorath,309,tax_income,101607574.17371725
+Lorath,309,state_expenditure,348132854.31716764
+Lorath,309,military_expenditure,199913208.33669275
+Lorath,308,tax_income,99978972.98339273
+Lorath,308,state_expenditure,339963553.4861686
+Lorath,308,military_expenditure,199838426.9116317
+Lorath,307,tax_income,104635174.83858892
+Lorath,307,state_expenditure,330629568.40392566
+Lorath,307,military_expenditure,201312838.56483102
+Lorath,306,tax_income,106130497.3580067
+Lorath,306,state_expenditure,338773015.51111853
+Lorath,306,military_expenditure,198971826.67275324
+Lorath,305,tax_income,107682056.97464825
+Lorath,305,state_expenditure,342056428.21609473
+Lorath,305,military_expenditure,201161090.36866465
+Lorath,304,tax_income,103285052.03727393
+Lorath,304,state_expenditure,358026651.57467943
+Lorath,304,military_expenditure,196062167.92593938
+Lorath,303,tax_income,100737396.80857103
+Lorath,303,state_expenditure,348853191.3820002
+Lorath,303,military_expenditure,198746551.81018
+Lorath,302,tax_income,97491435.93590048
+Lorath,302,state_expenditure,360118914.62924284
+Lorath,302,military_expenditure,192657963.63312542
+Lorath,301,tax_income,96116429.39655495
+Lorath,301,state_expenditure,370904766.9311869
+Lorath,301,military_expenditure,184677490.29973364
+Lorath,300,tax_income,95744820.09476471
+Lorath,300,state_expenditure,373652505.7715816
+Lorath,300,military_expenditure,186395820.1158338
+Qohor,309,tax_income,156678163.77440584
+Qohor,309,state_expenditure,440839372.5571991
+Qohor,309,military_expenditure,226773220.4226212
+Qohor,308,tax_income,154126047.51260576
+Qohor,308,state_expenditure,451068198.63903713
+Qohor,308,military_expenditure,225834668.81469727
+Qohor,307,tax_income,156376143.21633518
+Qohor,307,state_expenditure,443673928.31162053
+Qohor,307,military_expenditure,233718993.8658091
+Qohor,306,tax_income,158562646.50706676
+Qohor,306,state_expenditure,454910971.90708166
+Qohor,306,military_expenditure,244061497.05922347
+Qohor,305,tax_income,166546171.7573574
+Qohor,305,state_expenditure,444467319.3327614
+Qohor,305,military_expenditure,246774070.10946724
+Qohor,304,tax_income,162001224.28094307
+Qohor,304,state_expenditure,444308332.3936839
+Qohor,304,military_expenditure,238961905.83695817
+Qohor,303,tax_income,156266773.52509612
+Qohor,303,state_expenditure,449073168.64612514
+Qohor,303,military_expenditure,231769593.76218793
+Qohor,302,tax_income,157241065.25835633
+Qohor,302,state_expenditure,461494357.8555064
+Qohor,302,military_expenditure,227312589.14053297
+Qohor,301,tax_income,164927442.1805812
+Qohor,301,state_expenditure,449582876.59824926
+Qohor,301,military_expenditure,232613436.2991518
+Qohor,300,tax_income,163799765.17993715
+Qohor,300,state_expenditure,439835895.9338342
+Qohor,300,military_expenditure,225077341.9959253
+Tyrosh,309,tax_income,213826881.84663475
+Tyrosh,309,state_expenditure,517640672.1221485
+Tyrosh,309,military_expenditure,350281377.4608688
+Tyrosh,308,tax_income,221409184.67122233
+Tyrosh,308,state_expenditure,505046592.55630845
+Tyrosh,308,military_expenditure,335092076.87923735
+Tyrosh,307,tax_income,228218236.19612592
+Tyrosh,307,state_expenditure,503888274.5270558
+Tyrosh,307,military_expenditure,337013191.92506063
+Tyrosh,306,tax_income,220562747.12973693
+Tyrosh,306,state_expenditure,495436283.319891
+Tyrosh,306,military_expenditure,334735428.13462424
+Tyrosh,305,tax_income,214921762.62231496
+Tyrosh,305,state_expenditure,485924046.29845464
+Tyrosh,305,military_expenditure,334380593.05994993
+Tyrosh,304,tax_income,222154525.2157004
+Tyrosh,304,state_expenditure,490051466.56269294
+Tyrosh,304,military_expenditure,341710904.4498282
+Tyrosh,303,tax_income,220562856.48391408
+Tyrosh,303,state_expenditure,485613360.70418936
+Tyrosh,303,military_expenditure,353404392.6453083
+Tyrosh,302,tax_income,217876267.2622807
+Tyrosh,302,state_expenditure,487500117.81186575
+Tyrosh,302,military_expenditure,351862387.00219744
+Tyrosh,301,tax_income,228667676.34627467
+Tyrosh,301,state_expenditure,480391474.5183872
+Tyrosh,301,military_expenditure,343695249.8621544
+Tyrosh,300,tax_income,228018908.205892
+Tyrosh,300,state_expenditure,461115242.1159658
+Tyrosh,300,military_expenditure,344009598.9036389
+Dothraki Sea,309,tax_income,800795196.7209649
+Dothraki Sea,309,state_expenditure,1244691225.1145475
+Dothraki Sea,309,military_expenditure,506514275.4276354
+Dothraki Sea,308,tax_income,786942330.0152549
+Dothraki Sea,308,state_expenditure,1304900461.3232038
+Dothraki Sea,308,military_expenditure,493563592.2964113
+Dothraki Sea,307,tax_income,812291784.4730808
+Dothraki Sea,307,state_expenditure,1307105867.3716793
+Dothraki Sea,307,military_expenditure,483521509.7736069
+Dothraki Sea,306,tax_income,852053413.394518
+Dothraki Sea,306,state_expenditure,1284689652.7388718
+Dothraki Sea,306,military_expenditure,476304313.44222337
+Dothraki Sea,305,tax_income,843361372.8204086
+Dothraki Sea,305,state_expenditure,1240708804.31149
+Dothraki Sea,305,military_expenditure,475879353.65810305
+Dothraki Sea,304,tax_income,834087709.9538918
+Dothraki Sea,304,state_expenditure,1249483277.7225382
+Dothraki Sea,304,military_expenditure,459983888.7141875
+Dothraki Sea,303,tax_income,861067933.7281054
+Dothraki Sea,303,state_expenditure,1248252831.4236887
+Dothraki Sea,303,military_expenditure,482391781.86087775
+Dothraki Sea,302,tax_income,840648290.1489819
+Dothraki Sea,302,state_expenditure,1284669408.099426
+Dothraki Sea,302,military_expenditure,478812354.8859247
+Dothraki Sea,301,tax_income,869367986.1131825
+Dothraki Sea,301,state_expenditure,1233306455.6196697
+Dothraki Sea,301,military_expenditure,474508973.5416593
+Dothraki Sea,300,tax_income,847397882.1240977
+Dothraki Sea,300,state_expenditure,1236362518.7592115
+Dothraki Sea,300,military_expenditure,481503542.9176265
+Astapor,309,tax_income,332767063.68728334
+Astapor,309,state_expenditure,428842458.8384186
+Astapor,309,military_expenditure,76220854.70306198
+Astapor,308,tax_income,331032694.442453
+Astapor,308,state_expenditure,423806857.4628975
+Astapor,308,military_expenditure,79663940.40466112
+Astapor,307,tax_income,340723290.0027638
+Astapor,307,state_expenditure,427124788.35711753
+Astapor,307,military_expenditure,80840239.02202041
+Astapor,306,tax_income,346623856.46282625
+Astapor,306,state_expenditure,410639330.77353346
+Astapor,306,military_expenditure,80217097.4105315
+Astapor,305,tax_income,341273656.01166916
+Astapor,305,state_expenditure,415473069.2420811
+Astapor,305,military_expenditure,76728726.30835657
+Astapor,304,tax_income,329643233.87925345
+Astapor,304,state_expenditure,403724447.77965343
+Astapor,304,military_expenditure,73637747.7539885
+Astapor,303,tax_income,345194875.87050265
+Astapor,303,state_expenditure,406742158.98226494
+Astapor,303,military_expenditure,76881091.44203405
+Astapor,302,tax_income,347649663.68899316
+Astapor,302,state_expenditure,428142712.0463211
+Astapor,302,military_expenditure,78424106.82191388
+Astapor,301,tax_income,362366268.53020805
+Astapor,301,state_expenditure,442262238.92818683
+Astapor,301,military_expenditure,75664584.97544228
+Astapor,300,tax_income,358118452.34244645
+Astapor,300,state_expenditure,464528714.36352885
+Astapor,300,military_expenditure,73377386.8910512
+Yunkai,309,tax_income,307824792.58978343
+Yunkai,309,state_expenditure,755035872.7141783
+Yunkai,309,military_expenditure,425545097.51825696
+Yunkai,308,tax_income,300103354.94212914
+Yunkai,308,state_expenditure,726933375.7360667
+Yunkai,308,military_expenditure,431537950.6380929
+Yunkai,307,tax_income,288623965.91218895
+Yunkai,307,state_expenditure,702901632.3308302
+Yunkai,307,military_expenditure,431158781.604426
+Yunkai,306,tax_income,297842837.6198792
+Yunkai,306,state_expenditure,724896775.7264429
+Yunkai,306,military_expenditure,433862683.06502837
+Yunkai,305,tax_income,305133155.3134533
+Yunkai,305,state_expenditure,760067735.2847614
+Yunkai,305,military_expenditure,424497674.47196233
+Yunkai,304,tax_income,307508676.1760008
+Yunkai,304,state_expenditure,781319087.5217547
+Yunkai,304,military_expenditure,414256035.95598304
+Yunkai,303,tax_income,305079559.2790994
+Yunkai,303,state_expenditure,784827635.9068065
+Yunkai,303,military_expenditure,396172407.41934997
+Yunkai,302,tax_income,291557646.5080476
+Yunkai,302,state_expenditure,772978156.1636279
+Yunkai,302,military_expenditure,414069788.72938216
+Yunkai,301,tax_income,305402549.4466899
+Yunkai,301,state_expenditure,807190085.4286326
+Yunkai,301,military_expenditure,408711096.1673151
+Yunkai,300,tax_income,291997545.52701366
+Yunkai,300,state_expenditure,846538719.739134
+Yunkai,300,military_expenditure,401875691.78169984
+Meereen,309,tax_income,701203821.6381922
+Meereen,309,state_expenditure,214947790.6311536
+Meereen,309,military_expenditure,119768810.35879812
+Meereen,308,tax_income,674855513.6356543
+Meereen,308,state_expenditure,222686366.77640805
+Meereen,308,military_expenditure,120201749.93795091
+Meereen,307,tax_income,709651912.2108405
+Meereen,307,state_expenditure,222599341.35401553
+Meereen,307,military_expenditure,121696744.37098403
+Meereen,306,tax_income,701819187.8538948
+Meereen,306,state_expenditure,216115769.6410594
+Meereen,306,military_expenditure,117970502.69628999
+Meereen,305,tax_income,717893508.4110277
+Meereen,305,state_expenditure,215534696.32755485
+Meereen,305,military_expenditure,113064599.09597112
+Meereen,304,tax_income,752099285.6616982
+Meereen,304,state_expenditure,210444690.13447464
+Meereen,304,military_expenditure,114373539.67784745
+Meereen,303,tax_income,757737728.4269831
+Meereen,303,state_expenditure,204418101.45903128
+Meereen,303,military_expenditure,112637177.96164633
+Meereen,302,tax_income,771218754.9280002
+Meereen,302,state_expenditure,214771367.98147818
+Meereen,302,military_expenditure,110458883.62971678
+Meereen,301,tax_income,766699691.2751719
+Meereen,301,state_expenditure,220718049.5815272
+Meereen,301,military_expenditure,108332015.65055418
+Meereen,300,tax_income,782806943.9901694
+Meereen,300,state_expenditure,225011054.19971955
+Meereen,300,military_expenditure,111309724.79121035
+The Wall,309,tax_income,813806.1941133869
+The Wall,309,state_expenditure,976621.6223073772
+The Wall,309,military_expenditure,507105.8722592064
+The Wall,308,tax_income,855085.5721142582
+The Wall,308,state_expenditure,976765.2253408761
+The Wall,308,military_expenditure,489651.0092750904
+The Wall,307,tax_income,851362.5411438072
+The Wall,307,state_expenditure,944012.525379684
+The Wall,307,military_expenditure,472059.50493056455
+The Wall,306,tax_income,892638.1366624421
+The Wall,306,state_expenditure,926217.5114250518
+The Wall,306,military_expenditure,453398.0294060599
+The Wall,305,tax_income,902469.8851496164
+The Wall,305,state_expenditure,950514.2021126719
+The Wall,305,military_expenditure,470915.3686350486
+The Wall,304,tax_income,936378.6600435833
+The Wall,304,state_expenditure,912877.4944362837
+The Wall,304,military_expenditure,481182.34053668974
+The Wall,303,tax_income,943311.3945531746
+The Wall,303,state_expenditure,891161.9425464531
+The Wall,303,military_expenditure,471940.88163275324
+The Wall,302,tax_income,934767.6459838141
+The Wall,302,state_expenditure,875240.9187124396
+The Wall,302,military_expenditure,464436.93165666494
+The Wall,301,tax_income,925539.9350184673
+The Wall,301,state_expenditure,879338.3302760196
+The Wall,301,military_expenditure,443229.90212481545
+The Wall,300,tax_income,963980.5422878
+The Wall,300,state_expenditure,877309.6902426231
+The Wall,300,military_expenditure,427013.0115018763
+Beyond the Wall,309,tax_income,5276853.569113294
+Beyond the Wall,309,state_expenditure,2281586.018050963
+Beyond the Wall,309,military_expenditure,1371526.7616094258
+Beyond the Wall,308,tax_income,5447625.616178061
+Beyond the Wall,308,state_expenditure,2175903.8692808542
+Beyond the Wall,308,military_expenditure,1350679.006056253
+Beyond the Wall,307,tax_income,5642126.076823108
+Beyond the Wall,307,state_expenditure,2230363.8062417153
+Beyond the Wall,307,military_expenditure,1400498.978199433
+Beyond the Wall,306,tax_income,5558586.878889937
+Beyond the Wall,306,state_expenditure,2265242.704800317
+Beyond the Wall,306,military_expenditure,1373137.0985891314
+Beyond the Wall,305,tax_income,5605841.197333067
+Beyond the Wall,305,state_expenditure,2343766.819319059
+Beyond the Wall,305,military_expenditure,1314747.5433312212
+Beyond the Wall,304,tax_income,5680575.466568061
+Beyond the Wall,304,state_expenditure,2274852.9671561713
+Beyond the Wall,304,military_expenditure,1276047.4309502447
+Beyond the Wall,303,tax_income,5730724.5143193295
+Beyond the Wall,303,state_expenditure,2265564.813635451
+Beyond the Wall,303,military_expenditure,1332320.953016261
+Beyond the Wall,302,tax_income,5624503.585221013
+Beyond the Wall,302,state_expenditure,2224037.2399283396
+Beyond the Wall,302,military_expenditure,1375865.6654033912
+Beyond the Wall,301,tax_income,5721160.712350435
+Beyond the Wall,301,state_expenditure,2224035.6780340695
+Beyond the Wall,301,military_expenditure,1421378.7221409036
+Beyond the Wall,300,tax_income,5560216.801719132
+Beyond the Wall,300,state_expenditure,2189526.7776382514
+Beyond the Wall,300,military_expenditure,1421621.4970238144
+Skagos,309,tax_income,41334635.82224926
+Skagos,309,state_expenditure,38004000.7245648
+Skagos,309,military_expenditure,15998435.403768968
+Skagos,308,tax_income,42703512.39658846
+Skagos,308,state_expenditure,39112026.93799013
+Skagos,308,military_expenditure,15819499.09183328
+Skagos,307,tax_income,43179417.5732117
+Skagos,307,state_expenditure,38888864.688124575
+Skagos,307,military_expenditure,15570055.317027368
+Skagos,306,tax_income,43881326.301940575
+Skagos,306,state_expenditure,38792027.32133503
+Skagos,306,military_expenditure,16268372.46309544
+Skagos,305,tax_income,42371348.02646219
+Skagos,305,state_expenditure,38925821.29066139
+Skagos,305,military_expenditure,16803635.769854292
+Skagos,304,tax_income,41063976.977691434
+Skagos,304,state_expenditure,40013850.19598771
+Skagos,304,military_expenditure,17511088.15702397
+Skagos,303,tax_income,39506460.21866977
+Skagos,303,state_expenditure,38260302.86153557
+Skagos,303,military_expenditure,17924649.402928177
+Skagos,302,tax_income,39557813.906514555
+Skagos,302,state_expenditure,36824936.2653738
+Skagos,302,military_expenditure,18819843.98849206
+Skagos,301,tax_income,38035122.35457948
+Skagos,301,state_expenditure,37413427.34110824
+Skagos,301,military_expenditure,18264068.590084367
+Skagos,300,tax_income,37762985.18061477
+Skagos,300,state_expenditure,36503649.2937002
+Skagos,300,military_expenditure,18671623.136969935
+Qarth,309,tax_income,1316963463.5011334
+Qarth,309,state_expenditure,1168775624.9685018
+Qarth,309,military_expenditure,513999865.5759708
+Qarth,308,tax_income,1314215133.9777675
+Qarth,308,state_expenditure,1143006209.105909
+Qarth,308,military_expenditure,520849171.9806445
+Qarth,307,tax_income,1282786779.9234157
+Qarth,307,state_expenditure,1176277067.1324854
+Qarth,307,military_expenditure,522338009.513393
+Qarth,306,tax_income,1308313879.4854138
+Qarth,306,state_expenditure,1196792770.467198
+Qarth,306,military_expenditure,534422026.5899465
+Qarth,305,tax_income,1367534084.968004
+Qarth,305,state_expenditure,1237849143.0618458
+Qarth,305,military_expenditure,560894924.6301069
+Qarth,304,tax_income,1404802778.3895848
+Qarth,304,state_expenditure,1206681982.8089213
+Qarth,304,military_expenditure,566704576.1424259
+Qarth,303,tax_income,1395193624.812863
+Qarth,303,state_expenditure,1234905219.2576697
+Qarth,303,military_expenditure,568568443.4823923
+Qarth,302,tax_income,1375924661.9068272
+Qarth,302,state_expenditure,1291561123.1728237
+Qarth,302,military_expenditure,573355715.890629
+Qarth,301,tax_income,1382566631.6172585
+Qarth,301,state_expenditure,1270803877.5213108
+Qarth,301,military_expenditure,554821053.1627963
+Qarth,300,tax_income,1419735583.6183739
+Qarth,300,state_expenditure,1245080623.7952657
+Qarth,300,military_expenditure,546535804.2178576
+Ibben,309,tax_income,761009362.2822524
+Ibben,309,state_expenditure,339658979.1525047
+Ibben,309,military_expenditure,128357692.71221717
+Ibben,308,tax_income,762263704.6960487
+Ibben,308,state_expenditure,350744111.12334305
+Ibben,308,military_expenditure,125725408.52675422
+Ibben,307,tax_income,782429322.7964848
+Ibben,307,state_expenditure,337997373.03093714
+Ibben,307,military_expenditure,122460899.02744666
+Ibben,306,tax_income,804533051.4498427
+Ibben,306,state_expenditure,325954019.408487
+Ibben,306,military_expenditure,120628376.74951759
+Ibben,305,tax_income,789214287.4445463
+Ibben,305,state_expenditure,315961036.1897518
+Ibben,305,military_expenditure,119149340.22131127
+Ibben,304,tax_income,775144285.8510201
+Ibben,304,state_expenditure,308053558.64518476
+Ibben,304,military_expenditure,117190674.98091663
+Ibben,303,tax_income,796865157.3667141
+Ibben,303,state_expenditure,302671374.0290744
+Ibben,303,military_expenditure,119149595.76587066
+Ibben,302,tax_income,804955192.629697
+Ibben,302,state_expenditure,315364942.975054
+Ibben,302,military_expenditure,122207383.69007029
+Ibben,301,tax_income,773043788.4107714
+Ibben,301,state_expenditure,310645513.438395
+Ibben,301,military_expenditure,120208593.11553407
+Ibben,300,tax_income,750902493.7728751
+Ibben,300,state_expenditure,325032985.88579744
+Ibben,300,military_expenditure,126083520.87372279
+Leng,309,tax_income,493505592.7888761
+Leng,309,state_expenditure,1399836802.0888562
+Leng,309,military_expenditure,163112389.11956027
+Leng,308,tax_income,494470967.3866342
+Leng,308,state_expenditure,1384426253.7428248
+Leng,308,military_expenditure,162897651.7295332
+Leng,307,tax_income,516730847.04864967
+Leng,307,state_expenditure,1394923513.3621943
+Leng,307,military_expenditure,155570225.7970384
+Leng,306,tax_income,524652569.8957635
+Leng,306,state_expenditure,1390572895.6968827
+Leng,306,military_expenditure,160704696.25463492
+Leng,305,tax_income,546401906.866638
+Leng,305,state_expenditure,1403255280.1808426
+Leng,305,military_expenditure,154494440.65741473
+Leng,304,tax_income,529061544.0506786
+Leng,304,state_expenditure,1430597385.6009872
+Leng,304,military_expenditure,152116824.7768426
+Leng,303,tax_income,504534360.2959474
+Leng,303,state_expenditure,1435251389.0800838
+Leng,303,military_expenditure,147099693.8559476
+Leng,302,tax_income,486280955.77488816
+Leng,302,state_expenditure,1407777820.577107
+Leng,302,military_expenditure,143641365.43468493
+Leng,301,tax_income,497649410.8736221
+Leng,301,state_expenditure,1442898767.688916
+Leng,301,military_expenditure,141334695.35705468
+Leng,300,tax_income,487659021.66785634
+Leng,300,state_expenditure,1490918140.6868541
+Leng,300,military_expenditure,138382143.5268078
+Naath,309,tax_income,246010080.627459
+Naath,309,state_expenditure,187050352.49242303
+Naath,309,military_expenditure,31822769.391747583
+Naath,308,tax_income,242627993.64420357
+Naath,308,state_expenditure,179262448.25489986
+Naath,308,military_expenditure,32890721.95917531
+Naath,307,tax_income,231925922.59797406
+Naath,307,state_expenditure,183654052.15256017
+Naath,307,military_expenditure,34344040.82463187
+Naath,306,tax_income,221386051.10690662
+Naath,306,state_expenditure,175149058.96504563
+Naath,306,military_expenditure,32854481.32100647
+Naath,305,tax_income,228541906.39907974
+Naath,305,state_expenditure,174423846.41943562
+Naath,305,military_expenditure,31881246.20143766
+Naath,304,tax_income,238429845.4615263
+Naath,304,state_expenditure,169013220.6069192
+Naath,304,military_expenditure,30945513.26414897
+Naath,303,tax_income,244566254.76872388
+Naath,303,state_expenditure,165719795.85140902
+Naath,303,military_expenditure,30722751.99155044
+Naath,302,tax_income,255039450.6866977
+Naath,302,state_expenditure,161771165.0204401
+Naath,302,military_expenditure,31759049.01232407
+Naath,301,tax_income,263914199.71894866
+Naath,301,state_expenditure,164392095.75661948
+Naath,301,military_expenditure,30668435.27618527
+Naath,300,tax_income,259643991.7077002
+Naath,300,state_expenditure,160465050.77371258
+Naath,300,military_expenditure,31846730.117644608
+Sothoryos,309,tax_income,127278464.166517
+Sothoryos,309,state_expenditure,73360024.33214477
+Sothoryos,309,military_expenditure,8834672.220581384
+Sothoryos,308,tax_income,130327423.83356632
+Sothoryos,308,state_expenditure,73095911.60009979
+Sothoryos,308,military_expenditure,9085509.147635352
+Sothoryos,307,tax_income,128448668.35847336
+Sothoryos,307,state_expenditure,71013069.23430666
+Sothoryos,307,military_expenditure,9163675.895274187
+Sothoryos,306,tax_income,125501787.66467842
+Sothoryos,306,state_expenditure,69339324.09496333
+Sothoryos,306,military_expenditure,8838698.192757148
+Sothoryos,305,tax_income,123507938.45224589
+Sothoryos,305,state_expenditure,70126617.68129927
+Sothoryos,305,military_expenditure,8481700.305056699
+Sothoryos,304,tax_income,121482046.73243494
+Sothoryos,304,state_expenditure,73271258.69033754
+Sothoryos,304,military_expenditure,8619333.55532298
+Sothoryos,303,tax_income,125845645.84982221
+Sothoryos,303,state_expenditure,75207647.52838616
+Sothoryos,303,military_expenditure,8991065.786811018
+Sothoryos,302,tax_income,131847515.74692488
+Sothoryos,302,state_expenditure,74866567.36393964
+Sothoryos,302,military_expenditure,9364652.549842011
+Sothoryos,301,tax_income,135593040.73613623
+Sothoryos,301,state_expenditure,73177294.74114251
+Sothoryos,301,military_expenditure,9556079.759599654
+Sothoryos,300,tax_income,138640666.66819495
+Sothoryos,300,state_expenditure,72539608.41819763
+Sothoryos,300,military_expenditure,9832393.660826247
+Yi Ti,309,tax_income,414984419.1768624
+Yi Ti,309,state_expenditure,1502813273.5932643
+Yi Ti,309,military_expenditure,771945236.1344287
+Yi Ti,308,tax_income,408872017.1261933
+Yi Ti,308,state_expenditure,1552276454.805209
+Yi Ti,308,military_expenditure,756920152.0753108
+Yi Ti,307,tax_income,426998659.17252904
+Yi Ti,307,state_expenditure,1599068337.6823642
+Yi Ti,307,military_expenditure,730699441.7101898
+Yi Ti,306,tax_income,437597736.8937228
+Yi Ti,306,state_expenditure,1542036654.4211504
+Yi Ti,306,military_expenditure,753674062.4949318
+Yi Ti,305,tax_income,427650088.2269219
+Yi Ti,305,state_expenditure,1573453311.7755606
+Yi Ti,305,military_expenditure,734147220.8977664
+Yi Ti,304,tax_income,417976066.23498195
+Yi Ti,304,state_expenditure,1615530379.8527455
+Yi Ti,304,military_expenditure,728402184.9865458
+Yi Ti,303,tax_income,424526141.06498194
+Yi Ti,303,state_expenditure,1681860262.0078914
+Yi Ti,303,military_expenditure,753209000.4504362
+Yi Ti,302,tax_income,434860800.7449079
+Yi Ti,302,state_expenditure,1697941171.9848526
+Yi Ti,302,military_expenditure,734502113.7291799
+Yi Ti,301,tax_income,448943506.85234654
+Yi Ti,301,state_expenditure,1644269716.8885386
+Yi Ti,301,military_expenditure,763832276.8376405
+Yi Ti,300,tax_income,439966122.0031696
+Yi Ti,300,state_expenditure,1647643737.539908
+Yi Ti,300,military_expenditure,788015879.5266709
+Asshai,309,tax_income,92905832.01436125
+Asshai,309,state_expenditure,35134426.97747463
+Asshai,309,military_expenditure,20112276.304741308
+Asshai,308,tax_income,92864205.50311653
+Asshai,308,state_expenditure,35756454.539758615
+Asshai,308,military_expenditure,19378267.679397684
+Asshai,307,tax_income,95530228.25984986
+Asshai,307,state_expenditure,34686325.58162849
+Asshai,307,military_expenditure,18546744.029362068
+Asshai,306,tax_income,93503548.07471004
+Asshai,306,state_expenditure,33374252.308083754
+Asshai,306,military_expenditure,18478642.541628834
+Asshai,305,tax_income,90490755.3830914
+Asshai,305,state_expenditure,32117155.46218309
+Asshai,305,military_expenditure,18223331.499828886
+Asshai,304,tax_income,86764945.10468668
+Asshai,304,state_expenditure,32444899.9070355
+Asshai,304,military_expenditure,18145762.630775128
+Asshai,303,tax_income,90135147.73219708
+Asshai,303,state_expenditure,33757139.78748571
+Asshai,303,military_expenditure,19050823.499883913
+Asshai,302,tax_income,87103199.30485019
+Asshai,302,state_expenditure,34560238.17188221
+Asshai,302,military_expenditure,18664951.02546883
+Asshai,301,tax_income,83377021.13223004
+Asshai,301,state_expenditure,33022979.24440701
+Asshai,301,military_expenditure,17977257.588213567
+Asshai,300,tax_income,85019792.072549
+Asshai,300,state_expenditure,33272590.596278302
+Asshai,300,military_expenditure,17851226.74251601
+Mantarys,309,tax_income,25130420.61678377
+Mantarys,309,state_expenditure,75785026.634984
+Mantarys,309,military_expenditure,40947053.20465978
+Mantarys,308,tax_income,24184313.174762763
+Mantarys,308,state_expenditure,72872239.20436504
+Mantarys,308,military_expenditure,42816885.61254614
+Mantarys,307,tax_income,24721651.458635073
+Mantarys,307,state_expenditure,71039057.464415
+Mantarys,307,military_expenditure,41242553.233980395
+Mantarys,306,tax_income,25225003.503519826
+Mantarys,306,state_expenditure,72708313.19011329
+Mantarys,306,military_expenditure,42270183.0714623
+Mantarys,305,tax_income,26269554.97667664
+Mantarys,305,state_expenditure,70379580.70940863
+Mantarys,305,military_expenditure,43404355.58729468
+Mantarys,304,tax_income,26772524.427683517
+Mantarys,304,state_expenditure,70657455.82858846
+Mantarys,304,military_expenditure,44697486.38576921
+Mantarys,303,tax_income,27530672.602695618
+Mantarys,303,state_expenditure,69462484.89129154
+Mantarys,303,military_expenditure,46505006.83725495
+Mantarys,302,tax_income,26267701.68286022
+Mantarys,302,state_expenditure,70324447.31733586
+Mantarys,302,military_expenditure,47959433.087194376
+Mantarys,301,tax_income,25493768.08845852
+Mantarys,301,state_expenditure,69053410.65533529
+Mantarys,301,military_expenditure,45678392.66229754
+Mantarys,300,tax_income,24399145.624945052
+Mantarys,300,state_expenditure,72298615.94493678
+Mantarys,300,military_expenditure,44367420.04482089
+New Ghis,309,tax_income,192272262.00885883
+New Ghis,309,state_expenditure,201056904.73474663
+New Ghis,309,military_expenditure,138712819.43107018
+New Ghis,308,tax_income,190408425.40771827
+New Ghis,308,state_expenditure,192708921.48252174
+New Ghis,308,military_expenditure,142721257.96193635
+New Ghis,307,tax_income,190632210.425881
+New Ghis,307,state_expenditure,190675815.14955857
+New Ghis,307,military_expenditure,142157526.66111177
+New Ghis,306,tax_income,186039798.35424286
+New Ghis,306,state_expenditure,187570044.67839253
+New Ghis,306,military_expenditure,138006731.69545883
+New Ghis,305,tax_income,182952296.46757263
+New Ghis,305,state_expenditure,179633374.61281097
+New Ghis,305,military_expenditure,131841594.28199553
+New Ghis,304,tax_income,189835292.162111
+New Ghis,304,state_expenditure,180067941.752558
+New Ghis,304,military_expenditure,137208937.9643181
+New Ghis,303,tax_income,186352041.97216818
+New Ghis,303,state_expenditure,171789673.4164473
+New Ghis,303,military_expenditure,139407665.86159003
+New Ghis,302,tax_income,179078583.16765538
+New Ghis,302,state_expenditure,168752298.75857314
+New Ghis,302,military_expenditure,136228980.05880174
+New Ghis,301,tax_income,172353235.67606965
+New Ghis,301,state_expenditure,165883230.65539238
+New Ghis,301,military_expenditure,136395529.0849298
+New Ghis,300,tax_income,174671363.99824673
+New Ghis,300,state_expenditure,164590488.46513054
+New Ghis,300,military_expenditure,136735729.9121084
+Ghiscar,309,tax_income,936919324.710654
+Ghiscar,309,state_expenditure,969531629.847264
+Ghiscar,309,military_expenditure,710108634.9588493
+Ghiscar,308,tax_income,935496692.2690338
+Ghiscar,308,state_expenditure,968342380.9019543
+Ghiscar,308,military_expenditure,685837644.9613817
+Ghiscar,307,tax_income,903180796.1893257
+Ghiscar,307,state_expenditure,972667428.8923243
+Ghiscar,307,military_expenditure,698858271.6990733
+Ghiscar,306,tax_income,924116922.3089783
+Ghiscar,306,state_expenditure,993718635.7898681
+Ghiscar,306,military_expenditure,705479190.4436147
+Ghiscar,305,tax_income,966029897.173807
+Ghiscar,305,state_expenditure,1003459071.0066003
+Ghiscar,305,military_expenditure,729625078.8929089
+Ghiscar,304,tax_income,980198835.9409773
+Ghiscar,304,state_expenditure,1035493874.6537895
+Ghiscar,304,military_expenditure,712624508.500797
+Ghiscar,303,tax_income,950909426.5271183
+Ghiscar,303,state_expenditure,1002662275.9940705
+Ghiscar,303,military_expenditure,739677201.4368566
+Ghiscar,302,tax_income,997923616.5198008
+Ghiscar,302,state_expenditure,997658305.5311087
+Ghiscar,302,military_expenditure,720822476.0401496
+Ghiscar,301,tax_income,952160348.1837926
+Ghiscar,301,state_expenditure,961939090.4568524
+Ghiscar,301,military_expenditure,707040423.0499953
+Ghiscar,300,tax_income,943207187.7729903
+Ghiscar,300,state_expenditure,994450735.7714574
+Ghiscar,300,military_expenditure,732815566.0591925
+The Basilisk Isles,309,tax_income,396096579.80854464
+The Basilisk Isles,309,state_expenditure,326993483.969493
+The Basilisk Isles,309,military_expenditure,119924500.54420245
+The Basilisk Isles,308,tax_income,408333876.6497604
+The Basilisk Isles,308,state_expenditure,329005684.2640679
+The Basilisk Isles,308,military_expenditure,120605031.03167315
+The Basilisk Isles,307,tax_income,404992616.24558926
+The Basilisk Isles,307,state_expenditure,313895167.9144286
+The Basilisk Isles,307,military_expenditure,124286878.41226758
+The Basilisk Isles,306,tax_income,422796918.2853558
+The Basilisk Isles,306,state_expenditure,306285517.67226154
+The Basilisk Isles,306,military_expenditure,121234676.07515453
+The Basilisk Isles,305,tax_income,405784803.27266467
+The Basilisk Isles,305,state_expenditure,293054445.5160343
+The Basilisk Isles,305,military_expenditure,120217733.60640413
+The Basilisk Isles,304,tax_income,397000452.7923463
+The Basilisk Isles,304,state_expenditure,296576478.0768808
+The Basilisk Isles,304,military_expenditure,116659813.80939357
+The Basilisk Isles,303,tax_income,379796734.5093396
+The Basilisk Isles,303,state_expenditure,291289307.1848981
+The Basilisk Isles,303,military_expenditure,111466541.18668698
+The Basilisk Isles,302,tax_income,362663395.639648
+The Basilisk Isles,302,state_expenditure,301954666.95253
+The Basilisk Isles,302,military_expenditure,108433357.25773184
+The Basilisk Isles,301,tax_income,365118545.2705493
+The Basilisk Isles,301,state_expenditure,289545925.40502375
+The Basilisk Isles,301,military_expenditure,105596978.77703628
+The Basilisk Isles,300,tax_income,378785365.8843387
+The Basilisk Isles,300,state_expenditure,278094481.29418856
+The Basilisk Isles,300,military_expenditure,107680821.01746754
+The Summer Isles,309,tax_income,497090983.1903432
+The Summer Isles,309,state_expenditure,178493529.03869006
+The Summer Isles,309,military_expenditure,105508995.81090587
+The Summer Isles,308,tax_income,473791917.1104109
+The Summer Isles,308,state_expenditure,187143634.68491268
+The Summer Isles,308,military_expenditure,110169320.51716426
+The Summer Isles,307,tax_income,471283028.938572
+The Summer Isles,307,state_expenditure,189780712.4352931
+The Summer Isles,307,military_expenditure,114343070.21049173
+The Summer Isles,306,tax_income,449657524.8054733
+The Summer Isles,306,state_expenditure,188555381.73575294
+The Summer Isles,306,military_expenditure,117574882.54122642
+The Summer Isles,305,tax_income,459398638.19534427
+The Summer Isles,305,state_expenditure,194081759.75335628
+The Summer Isles,305,military_expenditure,113968398.39730985
+The Summer Isles,304,tax_income,479410774.2127092
+The Summer Isles,304,state_expenditure,190461543.55412966
+The Summer Isles,304,military_expenditure,110716003.3338692
+The Summer Isles,303,tax_income,497030321.97237635
+The Summer Isles,303,state_expenditure,188616546.26217481
+The Summer Isles,303,military_expenditure,109344854.3758216
+The Summer Isles,302,tax_income,504086182.29541975
+The Summer Isles,302,state_expenditure,197262874.86522493
+The Summer Isles,302,military_expenditure,106428252.98411062
+The Summer Isles,301,tax_income,513185834.8560441
+The Summer Isles,301,state_expenditure,201336897.77651933
+The Summer Isles,301,military_expenditure,105859634.63669057
+The Summer Isles,300,tax_income,493996361.73940533
+The Summer Isles,300,state_expenditure,200132675.8611441
+The Summer Isles,300,military_expenditure,107066826.50297448
