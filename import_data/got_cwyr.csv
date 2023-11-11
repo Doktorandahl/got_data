@@ -1,0 +1,564 @@
+state,year,civil_war_ID,battle_deaths,conflict_intensity,international_involvement,civil_war_name,conflict_termination,external_support
+Asshai,300,74,2970,High,0,The Bells War,Ceasefire,1
+Asshai,301,74,2035,High,0,The Bells War,Ceasefire,1
+Asshai,302,74,4794,High,1,The Bells War,Ceasefire,1
+Asshai,303,74,2123,High,0,The Bells War,Ceasefire,1
+Asshai,304,74,5298,High,1,The Bells War,Ceasefire,1
+Asshai,305,74,5032,High,1,The Bells War,Ceasefire,1
+Asshai,306,74,1100,Low,0,The Bells War,Ceasefire,1
+Astapor,300,56,977,Low,0,Sparrow Movement,Ongoing,1
+Astapor,301,56,3181,High,1,Sparrow Movement,Ongoing,1
+Astapor,302,56,1057,Low,0,Sparrow Movement,Ongoing,1
+Astapor,303,56,2642,High,0,Sparrow Movement,Ongoing,1
+Astapor,304,56,5944,High,1,Sparrow Movement,Ongoing,1
+Astapor,305,56,1389,Low,0,Sparrow Movement,Ongoing,1
+Astapor,306,56,282,Low,0,Sparrow Movement,Ongoing,1
+Astapor,307,56,1757,Low,0,Sparrow Movement,Ongoing,1
+Astapor,308,56,4434,High,1,Sparrow Movement,Ongoing,1
+Astapor,309,56,4855,High,1,Sparrow Movement,Ongoing,1
+Beyond the Wall,300,63,3379,High,1,Vale Mountain Clans War,Victory,0
+Beyond the Wall,301,63,3924,High,1,Vale Mountain Clans War,Victory,0
+Beyond the Wall,302,63,1953,Low,0,Vale Mountain Clans War,Victory,0
+Beyond the Wall,303,63,5372,High,1,Vale Mountain Clans War,Victory,0
+Beyond the Wall,304,63,1193,Low,0,Vale Mountain Clans War,Victory,0
+Beyond the Wall,305,63,1526,Low,0,Vale Mountain Clans War,Victory,0
+Beyond the Wall,306,63,2031,High,0,Vale Mountain Clans War,Victory,0
+Beyond the Wall,300,64,831,Low,0,Skagosi Rebellion,Ceasefire,0
+Beyond the Wall,301,64,3246,High,1,Skagosi Rebellion,Ceasefire,0
+Beyond the Wall,302,64,2124,High,0,Skagosi Rebellion,Ceasefire,0
+Beyond the Wall,303,64,1819,Low,0,Skagosi Rebellion,Ceasefire,0
+Braavos,300,38,700,Low,0,Lorath Clash,Defeat,1
+Braavos,301,38,1665,Low,0,Lorath Clash,Defeat,1
+Braavos,302,38,2355,High,0,Lorath Clash,Defeat,1
+Braavos,303,38,1851,Low,0,Lorath Clash,Defeat,1
+Braavos,304,38,3722,High,1,Lorath Clash,Defeat,1
+Braavos,305,38,4234,High,1,Lorath Clash,Defeat,1
+Braavos,306,38,2867,High,0,Lorath Clash,Defeat,1
+Braavos,307,38,3543,High,1,Lorath Clash,Defeat,1
+Braavos,308,38,251,Low,0,Lorath Clash,Defeat,1
+Braavos,300,39,3536,High,1,Wight Invasion,Victory,0
+Braavos,301,39,1651,Low,0,Wight Invasion,Victory,0
+Braavos,302,39,5357,High,1,Wight Invasion,Victory,0
+Braavos,303,39,4771,High,1,Wight Invasion,Victory,0
+Braavos,300,40,144,Low,0,Battle for the Dawn,Ongoing,0
+Braavos,301,40,4709,High,1,Battle for the Dawn,Ongoing,0
+Braavos,302,40,5904,High,1,Battle for the Dawn,Ongoing,0
+Braavos,300,41,5904,High,1,Night's Watch Mutiny,Ceasefire,1
+Braavos,301,41,986,Low,0,Night's Watch Mutiny,Ceasefire,1
+Braavos,302,41,4028,High,1,Night's Watch Mutiny,Ceasefire,1
+Braavos,303,41,968,Low,0,Night's Watch Mutiny,Ceasefire,1
+Braavos,304,41,3034,High,1,Night's Watch Mutiny,Ceasefire,1
+Braavos,305,41,5825,High,1,Night's Watch Mutiny,Ceasefire,1
+Braavos,306,41,4455,High,1,Night's Watch Mutiny,Ceasefire,1
+Braavos,300,42,2964,High,0,Targaryen Restoration,Ceasefire,1
+Braavos,301,42,1013,Low,0,Targaryen Restoration,Ceasefire,1
+Braavos,302,42,4234,High,1,Targaryen Restoration,Ceasefire,1
+Braavos,303,42,576,Low,0,Targaryen Restoration,Ceasefire,1
+Braavos,304,42,5359,High,1,Targaryen Restoration,Ceasefire,1
+Braavos,305,42,5909,High,1,Targaryen Restoration,Ceasefire,1
+Braavos,306,42,4542,High,1,Targaryen Restoration,Ceasefire,1
+Braavos,307,42,4791,High,1,Targaryen Restoration,Ceasefire,1
+Braavos,308,42,2626,High,0,Targaryen Restoration,Ceasefire,1
+Dorne,300,22,4357,High,1,Clash at Castle Black,Defeat,1
+Dorne,301,22,4863,High,1,Clash at Castle Black,Defeat,1
+Dorne,302,22,300,Low,0,Clash at Castle Black,Defeat,1
+Dorne,303,22,2214,High,0,Clash at Castle Black,Defeat,1
+Dorne,304,22,3576,High,1,Clash at Castle Black,Defeat,1
+Dorne,305,22,2026,High,0,Clash at Castle Black,Defeat,1
+Dorne,306,22,1143,Low,0,Clash at Castle Black,Defeat,1
+Dorne,307,22,5639,High,1,Clash at Castle Black,Defeat,1
+Dorne,300,23,938,Low,0,King's Landing Coup,Victory,0
+Dorne,301,23,2742,High,0,King's Landing Coup,Victory,0
+Dorne,302,23,598,Low,0,King's Landing Coup,Victory,0
+Dorne,303,23,1757,Low,0,King's Landing Coup,Victory,0
+Dorne,304,23,3070,High,1,King's Landing Coup,Victory,0
+Dorne,300,24,1733,Low,0,Stark-Lannister Feud,Defeat,0
+Dorne,301,24,3835,High,1,Stark-Lannister Feud,Defeat,0
+Dorne,300,25,3448,High,1,Baratheon Rivalry,Ceasefire,0
+Dorne,301,25,1646,Low,0,Baratheon Rivalry,Ceasefire,0
+Dorne,302,25,717,Low,0,Baratheon Rivalry,Ceasefire,0
+Dorne,303,25,535,Low,0,Baratheon Rivalry,Ceasefire,0
+Dorne,304,25,700,Low,0,Baratheon Rivalry,Ceasefire,0
+Dorne,305,25,2891,High,0,Baratheon Rivalry,Ceasefire,0
+Dorne,306,25,2939,High,0,Baratheon Rivalry,Ceasefire,0
+Dorne,307,25,4858,High,1,Baratheon Rivalry,Ceasefire,0
+Dorne,308,25,3255,High,1,Baratheon Rivalry,Ceasefire,0
+Dothraki Sea,300,52,5344,High,1,Maester Conspiracy,Victory,0
+Dothraki Sea,301,52,2220,High,0,Maester Conspiracy,Victory,0
+Dothraki Sea,302,52,2057,High,0,Maester Conspiracy,Victory,0
+Dothraki Sea,300,53,2652,High,0,Alchemist Guild War,Defeat,0
+Dothraki Sea,301,53,393,Low,0,Alchemist Guild War,Defeat,0
+Dothraki Sea,302,53,5023,High,1,Alchemist Guild War,Defeat,0
+Dothraki Sea,303,53,3720,High,1,Alchemist Guild War,Defeat,0
+Dothraki Sea,304,53,4177,High,1,Alchemist Guild War,Defeat,0
+Dothraki Sea,300,54,145,Low,0,Faceless Men Infiltration,Ongoing,0
+Dothraki Sea,301,54,4072,High,1,Faceless Men Infiltration,Ongoing,0
+Dothraki Sea,302,54,953,Low,0,Faceless Men Infiltration,Ongoing,0
+Dothraki Sea,303,54,176,Low,0,Faceless Men Infiltration,Ongoing,0
+Dothraki Sea,304,54,2167,High,0,Faceless Men Infiltration,Ongoing,0
+Dothraki Sea,305,54,3136,High,1,Faceless Men Infiltration,Ongoing,0
+Dothraki Sea,306,54,2372,High,0,Faceless Men Infiltration,Ongoing,0
+Dothraki Sea,300,55,341,Low,0,Iron Bank Dispute,Ongoing,0
+Dothraki Sea,301,55,3979,High,1,Iron Bank Dispute,Ongoing,0
+Dothraki Sea,302,55,3036,High,1,Iron Bank Dispute,Ongoing,0
+Ghiscar,300,84,440,Low,0,Oldtown Scholar War,Ongoing,0
+Ghiscar,301,84,2909,High,0,Oldtown Scholar War,Ongoing,0
+Ghiscar,300,85,1796,Low,0,Citadel Conflict,Defeat,0
+Ghiscar,301,85,580,Low,0,Citadel Conflict,Defeat,0
+Ghiscar,302,85,2504,High,0,Citadel Conflict,Defeat,0
+Ghiscar,303,85,4808,High,1,Citadel Conflict,Defeat,0
+Ghiscar,304,85,1430,Low,0,Citadel Conflict,Defeat,0
+Ghiscar,305,85,5575,High,1,Citadel Conflict,Defeat,0
+Lorath,300,44,5875,High,1,Lannister Succession,Defeat,0
+Lorath,301,44,445,Low,0,Lannister Succession,Defeat,0
+Lorath,302,44,134,Low,0,Lannister Succession,Defeat,0
+Lorath,303,44,2201,High,0,Lannister Succession,Defeat,0
+Lorath,300,45,3491,High,1,Martell Vengeance,Defeat,1
+Lorath,301,45,1186,Low,0,Martell Vengeance,Defeat,1
+Lorath,302,45,4930,High,1,Martell Vengeance,Defeat,1
+Lorath,303,45,4275,High,1,Martell Vengeance,Defeat,1
+Lorath,304,45,2375,High,0,Martell Vengeance,Defeat,1
+Lorath,305,45,5095,High,1,Martell Vengeance,Defeat,1
+Lorath,306,45,767,Low,0,Martell Vengeance,Defeat,1
+Lorath,300,46,2164,High,0,Bolton Betrayal,Ceasefire,0
+Lorath,301,46,2386,High,0,Bolton Betrayal,Ceasefire,0
+Lorath,302,46,4075,High,1,Bolton Betrayal,Ceasefire,0
+Lorath,303,46,1778,Low,0,Bolton Betrayal,Ceasefire,0
+Lorath,300,47,632,Low,0,Frey Treachery,Defeat,1
+Lorath,301,47,3673,High,1,Frey Treachery,Defeat,1
+Lorath,302,47,3153,High,1,Frey Treachery,Defeat,1
+Lorath,303,47,4300,High,1,Frey Treachery,Defeat,1
+Lorath,304,47,5004,High,1,Frey Treachery,Defeat,1
+Lorath,305,47,705,Low,0,Frey Treachery,Defeat,1
+Lorath,306,47,2639,High,0,Frey Treachery,Defeat,1
+Lorath,307,47,3959,High,1,Frey Treachery,Defeat,1
+Lorath,308,47,5056,High,1,Frey Treachery,Defeat,1
+Lorath,309,47,3705,High,1,Frey Treachery,Defeat,1
+Lorath,300,48,2521,High,0,Tarly Revolt,Ceasefire,0
+Lorath,301,48,2056,High,0,Tarly Revolt,Ceasefire,0
+Lorath,302,48,4706,High,1,Tarly Revolt,Ceasefire,0
+Lorath,303,48,4190,High,1,Tarly Revolt,Ceasefire,0
+Lorath,304,48,3914,High,1,Tarly Revolt,Ceasefire,0
+Lys,300,30,1097,Low,0,Dragon's Bay Confrontation,Ceasefire,0
+Lys,301,30,3712,High,1,Dragon's Bay Confrontation,Ceasefire,0
+Lys,302,30,2617,High,0,Dragon's Bay Confrontation,Ceasefire,0
+Lys,303,30,3992,High,1,Dragon's Bay Confrontation,Ceasefire,0
+Lys,300,31,2738,High,0,Pentos Rebellion,Victory,0
+Lys,301,31,2027,High,0,Pentos Rebellion,Victory,0
+Lys,302,31,966,Low,0,Pentos Rebellion,Victory,0
+Lys,303,31,3906,High,1,Pentos Rebellion,Victory,0
+Lys,304,31,3017,High,1,Pentos Rebellion,Victory,0
+Lys,300,32,732,Low,0,Volantis Coup,Defeat,0
+Lys,301,32,3664,High,1,Volantis Coup,Defeat,0
+Lys,302,32,5007,High,1,Volantis Coup,Defeat,0
+Lys,303,32,4031,High,1,Volantis Coup,Defeat,0
+Lys,304,32,2499,High,0,Volantis Coup,Defeat,0
+Lys,305,32,1985,Low,0,Volantis Coup,Defeat,0
+Lys,306,32,2843,High,0,Volantis Coup,Defeat,0
+Lys,300,33,4911,High,1,Lys Intrigue,Victory,0
+Lys,301,33,4457,High,1,Lys Intrigue,Victory,0
+Lys,302,33,262,Low,0,Lys Intrigue,Victory,0
+Lys,303,33,755,Low,0,Lys Intrigue,Victory,0
+Lys,304,33,3354,High,1,Lys Intrigue,Victory,0
+Lys,305,33,3780,High,1,Lys Intrigue,Victory,0
+Lys,306,33,602,Low,0,Lys Intrigue,Victory,0
+Mantarys,300,75,2622,High,0,King's Landing Sack,Victory,1
+Mantarys,301,75,2572,High,0,King's Landing Sack,Victory,1
+Mantarys,302,75,914,Low,0,King's Landing Sack,Victory,1
+Mantarys,303,75,3219,High,1,King's Landing Sack,Victory,1
+Mantarys,304,75,1127,Low,0,King's Landing Sack,Victory,1
+Mantarys,305,75,5938,High,1,King's Landing Sack,Victory,1
+Mantarys,306,75,2872,High,0,King's Landing Sack,Victory,1
+Mantarys,307,75,3612,High,1,King's Landing Sack,Victory,1
+Mantarys,300,76,998,Low,0,Storm's End Siege,Defeat,0
+Mantarys,301,76,3727,High,1,Storm's End Siege,Defeat,0
+Mantarys,302,76,1443,Low,0,Storm's End Siege,Defeat,0
+Mantarys,300,77,765,Low,0,Tarth Rebellion,Defeat,1
+Mantarys,301,77,2514,High,0,Tarth Rebellion,Defeat,1
+Mantarys,302,77,5517,High,1,Tarth Rebellion,Defeat,1
+Mantarys,303,77,3819,High,1,Tarth Rebellion,Defeat,1
+Mantarys,304,77,1816,Low,0,Tarth Rebellion,Defeat,1
+Mantarys,305,77,1485,Low,0,Tarth Rebellion,Defeat,1
+Mantarys,306,77,2080,High,0,Tarth Rebellion,Defeat,1
+Mantarys,307,77,3975,High,1,Tarth Rebellion,Defeat,1
+Mantarys,308,77,1407,Low,0,Tarth Rebellion,Defeat,1
+Mantarys,300,78,5396,High,1,Dragonpit Battle,Ceasefire,0
+Mantarys,301,78,2737,High,0,Dragonpit Battle,Ceasefire,0
+Mantarys,302,78,1328,Low,0,Dragonpit Battle,Ceasefire,0
+Mantarys,303,78,5630,High,1,Dragonpit Battle,Ceasefire,0
+Mantarys,304,78,2979,High,0,Dragonpit Battle,Ceasefire,0
+Mantarys,300,79,2325,High,0,Lannisport Plunder,Defeat,0
+Mantarys,301,79,5896,High,1,Lannisport Plunder,Defeat,0
+Meereen,300,57,3184,High,1,R'hllor Resurgence,Defeat,1
+Meereen,301,57,2198,High,0,R'hllor Resurgence,Defeat,1
+Meereen,302,57,4480,High,1,R'hllor Resurgence,Defeat,1
+Meereen,303,57,3328,High,1,R'hllor Resurgence,Defeat,1
+Meereen,304,57,4721,High,1,R'hllor Resurgence,Defeat,1
+Meereen,305,57,5990,High,1,R'hllor Resurgence,Defeat,1
+Meereen,306,57,4639,High,1,R'hllor Resurgence,Defeat,1
+Meereen,307,57,4473,High,1,R'hllor Resurgence,Defeat,1
+Meereen,308,57,5118,High,1,R'hllor Resurgence,Defeat,1
+Myr,300,34,471,Low,0,Tyrosh Skirmish,Ongoing,1
+Myr,301,34,3076,High,1,Tyrosh Skirmish,Ongoing,1
+Myr,302,34,3683,High,1,Tyrosh Skirmish,Ongoing,1
+Myr,303,34,4445,High,1,Tyrosh Skirmish,Ongoing,1
+Myr,304,34,4098,High,1,Tyrosh Skirmish,Ongoing,1
+Myr,305,34,5527,High,1,Tyrosh Skirmish,Ongoing,1
+Myr,306,34,3303,High,1,Tyrosh Skirmish,Ongoing,1
+Myr,300,35,3538,High,1,Norvos Revolt,Victory,0
+Myr,301,35,2694,High,0,Norvos Revolt,Victory,0
+Myr,302,35,442,Low,0,Norvos Revolt,Victory,0
+New Ghis,300,80,2135,High,0,Eyrie Invasion,Victory,1
+New Ghis,301,80,3328,High,1,Eyrie Invasion,Victory,1
+New Ghis,302,80,2126,High,0,Eyrie Invasion,Victory,1
+New Ghis,303,80,648,Low,0,Eyrie Invasion,Victory,1
+New Ghis,304,80,2199,High,0,Eyrie Invasion,Victory,1
+New Ghis,305,80,4154,High,1,Eyrie Invasion,Victory,1
+New Ghis,306,80,541,Low,0,Eyrie Invasion,Victory,1
+New Ghis,307,80,3773,High,1,Eyrie Invasion,Victory,1
+New Ghis,308,80,1972,Low,0,Eyrie Invasion,Victory,1
+New Ghis,309,80,3914,High,1,Eyrie Invasion,Victory,1
+New Ghis,300,81,2798,High,0,Dragonstone Siege,Defeat,1
+New Ghis,301,81,4858,High,1,Dragonstone Siege,Defeat,1
+New Ghis,302,81,3795,High,1,Dragonstone Siege,Defeat,1
+New Ghis,303,81,2168,High,0,Dragonstone Siege,Defeat,1
+New Ghis,304,81,2285,High,0,Dragonstone Siege,Defeat,1
+New Ghis,305,81,402,Low,0,Dragonstone Siege,Defeat,1
+New Ghis,306,81,4201,High,1,Dragonstone Siege,Defeat,1
+New Ghis,307,81,3081,High,1,Dragonstone Siege,Defeat,1
+New Ghis,308,81,4267,High,1,Dragonstone Siege,Defeat,1
+New Ghis,309,81,1270,Low,0,Dragonstone Siege,Defeat,1
+New Ghis,300,82,3308,High,1,Highgarden Fall,Ceasefire,0
+New Ghis,301,82,5294,High,1,Highgarden Fall,Ceasefire,0
+New Ghis,302,82,4754,High,1,Highgarden Fall,Ceasefire,0
+New Ghis,303,82,1118,Low,0,Highgarden Fall,Ceasefire,0
+New Ghis,300,83,1720,Low,0,Sunspear Conspiracy,Ongoing,0
+New Ghis,301,83,4965,High,1,Sunspear Conspiracy,Ongoing,0
+New Ghis,302,83,1637,Low,0,Sunspear Conspiracy,Ongoing,0
+Norvos,300,43,5752,High,1,Stark Restoration,Ceasefire,0
+Norvos,301,43,2289,High,0,Stark Restoration,Ceasefire,0
+Norvos,302,43,1581,Low,0,Stark Restoration,Ceasefire,0
+Norvos,303,43,1842,Low,0,Stark Restoration,Ceasefire,0
+Norvos,304,43,1745,Low,0,Stark Restoration,Ceasefire,0
+Norvos,305,43,3434,High,1,Stark Restoration,Ceasefire,0
+Norvos,306,43,1486,Low,0,Stark Restoration,Ceasefire,0
+Pentos,300,26,3462,High,1,Tully-Frey Discord,Defeat,1
+Pentos,301,26,5889,High,1,Tully-Frey Discord,Defeat,1
+Pentos,302,26,2427,High,0,Tully-Frey Discord,Defeat,1
+Pentos,303,26,2389,High,0,Tully-Frey Discord,Defeat,1
+Pentos,304,26,4351,High,1,Tully-Frey Discord,Defeat,1
+Pentos,305,26,5207,High,1,Tully-Frey Discord,Defeat,1
+Pentos,306,26,1652,Low,0,Tully-Frey Discord,Defeat,1
+Pentos,307,26,3928,High,1,Tully-Frey Discord,Defeat,1
+Pentos,308,26,5412,High,1,Tully-Frey Discord,Defeat,1
+Pentos,309,26,5638,High,1,Tully-Frey Discord,Defeat,1
+Pentos,300,27,4645,High,1,Essos Expedition,Ceasefire,0
+Pentos,301,27,2390,High,0,Essos Expedition,Ceasefire,0
+Pentos,302,27,892,Low,0,Essos Expedition,Ceasefire,0
+Pentos,303,27,5159,High,1,Essos Expedition,Ceasefire,0
+Pentos,300,28,4620,High,1,Slaver's Bay Standoff,Defeat,1
+Pentos,301,28,1749,Low,0,Slaver's Bay Standoff,Defeat,1
+Pentos,302,28,1221,Low,0,Slaver's Bay Standoff,Defeat,1
+Pentos,303,28,4548,High,1,Slaver's Bay Standoff,Defeat,1
+Pentos,304,28,5682,High,1,Slaver's Bay Standoff,Defeat,1
+Pentos,305,28,1652,Low,0,Slaver's Bay Standoff,Defeat,1
+Pentos,306,28,3198,High,1,Slaver's Bay Standoff,Defeat,1
+Pentos,307,28,3458,High,1,Slaver's Bay Standoff,Defeat,1
+Pentos,308,28,1178,Low,0,Slaver's Bay Standoff,Defeat,1
+Pentos,300,29,4241,High,1,Mereen Insurgency,Ongoing,0
+Pentos,301,29,2965,High,0,Mereen Insurgency,Ongoing,0
+Qarth,300,69,129,Low,0,Dothraki Civil War,Victory,0
+Qarth,301,69,2211,High,0,Dothraki Civil War,Victory,0
+Qarth,302,69,1982,Low,0,Dothraki Civil War,Victory,0
+Qarth,300,70,4550,High,1,Battle of the Whispering Wood,Ceasefire,0
+Qarth,301,70,2219,High,0,Battle of the Whispering Wood,Ceasefire,0
+Qarth,302,70,5037,High,1,Battle of the Whispering Wood,Ceasefire,0
+Qarth,300,71,982,Low,0,Twin Towers Skirmish,Ceasefire,1
+Qarth,301,71,3788,High,1,Twin Towers Skirmish,Ceasefire,1
+Qarth,302,71,4788,High,1,Twin Towers Skirmish,Ceasefire,1
+Qarth,303,71,4571,High,1,Twin Towers Skirmish,Ceasefire,1
+Qarth,304,71,5313,High,1,Twin Towers Skirmish,Ceasefire,1
+Qarth,305,71,3707,High,1,Twin Towers Skirmish,Ceasefire,1
+Qarth,306,71,2670,High,0,Twin Towers Skirmish,Ceasefire,1
+Qarth,307,71,2030,High,0,Twin Towers Skirmish,Ceasefire,1
+Qarth,300,72,3704,High,1,Seagard Siege,Ongoing,0
+Qarth,301,72,3364,High,1,Seagard Siege,Ongoing,0
+Qarth,302,72,1522,Low,0,Seagard Siege,Ongoing,0
+Qarth,303,72,2930,High,0,Seagard Siege,Ongoing,0
+Qarth,304,72,796,Low,0,Seagard Siege,Ongoing,0
+Qarth,305,72,5763,High,1,Seagard Siege,Ongoing,0
+Qarth,300,73,3180,High,1,Moat Cailin Standoff,Ongoing,0
+Qarth,301,73,4488,High,1,Moat Cailin Standoff,Ongoing,0
+Qarth,302,73,1523,Low,0,Moat Cailin Standoff,Ongoing,0
+Qarth,303,73,530,Low,0,Moat Cailin Standoff,Ongoing,0
+Qarth,304,73,381,Low,0,Moat Cailin Standoff,Ongoing,0
+Qarth,305,73,450,Low,0,Moat Cailin Standoff,Ongoing,0
+Qarth,306,73,5858,High,1,Moat Cailin Standoff,Ongoing,0
+Qohor,300,49,5192,High,1,Karstark Rebellion,Ceasefire,1
+Qohor,301,49,5145,High,1,Karstark Rebellion,Ceasefire,1
+Qohor,302,49,1390,Low,0,Karstark Rebellion,Ceasefire,1
+Qohor,303,49,5208,High,1,Karstark Rebellion,Ceasefire,1
+Qohor,304,49,5185,High,1,Karstark Rebellion,Ceasefire,1
+Qohor,305,49,879,Low,0,Karstark Rebellion,Ceasefire,1
+Qohor,300,50,2734,High,0,Umber Uprising,Ongoing,0
+Qohor,301,50,521,Low,0,Umber Uprising,Ongoing,0
+Qohor,302,50,148,Low,0,Umber Uprising,Ongoing,0
+Qohor,303,50,1876,Low,0,Umber Uprising,Ongoing,0
+Qohor,304,50,3143,High,1,Umber Uprising,Ongoing,0
+Qohor,305,50,1864,Low,0,Umber Uprising,Ongoing,0
+Qohor,300,51,2839,High,0,Blackfyre Rebellion,Ceasefire,0
+Qohor,301,51,3275,High,1,Blackfyre Rebellion,Ceasefire,0
+Qohor,302,51,174,Low,0,Blackfyre Rebellion,Ceasefire,0
+Qohor,303,51,840,Low,0,Blackfyre Rebellion,Ceasefire,0
+Qohor,304,51,5130,High,1,Blackfyre Rebellion,Ceasefire,0
+Skagos,300,65,3419,High,1,Qarth Merchant War,Ceasefire,0
+Skagos,301,65,762,Low,0,Qarth Merchant War,Ceasefire,0
+Skagos,302,65,1573,Low,0,Qarth Merchant War,Ceasefire,0
+Skagos,303,65,1811,Low,0,Qarth Merchant War,Ceasefire,0
+Skagos,304,65,2516,High,0,Qarth Merchant War,Ceasefire,0
+Skagos,300,66,2290,High,0,Astapor Slave Revolt,Ongoing,0
+Skagos,301,66,1128,Low,0,Astapor Slave Revolt,Ongoing,0
+Skagos,302,66,485,Low,0,Astapor Slave Revolt,Ongoing,0
+Skagos,303,66,2564,High,0,Astapor Slave Revolt,Ongoing,0
+Skagos,304,66,1096,Low,0,Astapor Slave Revolt,Ongoing,0
+Skagos,305,66,2428,High,0,Astapor Slave Revolt,Ongoing,0
+Skagos,306,66,4819,High,1,Astapor Slave Revolt,Ongoing,0
+Skagos,307,66,3146,High,1,Astapor Slave Revolt,Ongoing,0
+Skagos,308,66,363,Low,0,Astapor Slave Revolt,Ongoing,0
+Skagos,300,67,2328,High,0,Yunkai Liberation,Defeat,1
+Skagos,301,67,1838,Low,0,Yunkai Liberation,Defeat,1
+Skagos,302,67,1792,Low,0,Yunkai Liberation,Defeat,1
+Skagos,303,67,252,Low,0,Yunkai Liberation,Defeat,1
+Skagos,304,67,611,Low,0,Yunkai Liberation,Defeat,1
+Skagos,305,67,5615,High,1,Yunkai Liberation,Defeat,1
+Skagos,306,67,1630,Low,0,Yunkai Liberation,Defeat,1
+Skagos,307,67,3463,High,1,Yunkai Liberation,Defeat,1
+Skagos,308,67,909,Low,0,Yunkai Liberation,Defeat,1
+Skagos,309,67,4371,High,1,Yunkai Liberation,Defeat,1
+Skagos,300,68,2789,High,0,War of the Harpy,Victory,0
+Skagos,301,68,3146,High,1,War of the Harpy,Victory,0
+The Basilisk Isles,300,86,5958,High,1,Crannogmen Swamp War,Defeat,0
+The Basilisk Isles,301,86,112,Low,0,Crannogmen Swamp War,Defeat,0
+The Basilisk Isles,302,86,2848,High,0,Crannogmen Swamp War,Defeat,0
+The Basilisk Isles,303,86,1154,Low,0,Crannogmen Swamp War,Defeat,0
+The Basilisk Isles,304,86,1640,Low,0,Crannogmen Swamp War,Defeat,0
+The Basilisk Isles,300,87,4365,High,1,Beyond the Wall Skirmish,Victory,1
+The Basilisk Isles,301,87,1823,Low,0,Beyond the Wall Skirmish,Victory,1
+The Basilisk Isles,302,87,5885,High,1,Beyond the Wall Skirmish,Victory,1
+The Basilisk Isles,303,87,202,Low,0,Beyond the Wall Skirmish,Victory,1
+The Basilisk Isles,304,87,4021,High,1,Beyond the Wall Skirmish,Victory,1
+The Basilisk Isles,305,87,573,Low,0,Beyond the Wall Skirmish,Victory,1
+The Basilisk Isles,306,87,3275,High,1,Beyond the Wall Skirmish,Victory,1
+The Basilisk Isles,307,87,1847,Low,0,Beyond the Wall Skirmish,Victory,1
+The Basilisk Isles,308,87,3560,High,1,Beyond the Wall Skirmish,Victory,1
+The Iron Islands,300,3,2237,High,0,Battle of the Bastards,Ceasefire,0
+The Iron Islands,301,3,2675,High,0,Battle of the Bastards,Ceasefire,0
+The Iron Islands,302,3,5821,High,1,Battle of the Bastards,Ceasefire,0
+The Iron Islands,300,4,1547,Low,0,Greyjoy Rebellion,Ceasefire,1
+The Iron Islands,301,4,3670,High,1,Greyjoy Rebellion,Ceasefire,1
+The Iron Islands,302,4,4087,High,1,Greyjoy Rebellion,Ceasefire,1
+The Iron Islands,303,4,4500,High,1,Greyjoy Rebellion,Ceasefire,1
+The Iron Islands,304,4,2214,High,0,Greyjoy Rebellion,Ceasefire,1
+The Iron Islands,305,4,4913,High,1,Greyjoy Rebellion,Ceasefire,1
+The Iron Islands,306,4,264,Low,0,Greyjoy Rebellion,Ceasefire,1
+The Iron Islands,307,4,1485,Low,0,Greyjoy Rebellion,Ceasefire,1
+The Iron Islands,308,4,5377,High,1,Greyjoy Rebellion,Ceasefire,1
+The Iron Islands,300,5,3930,High,1,Red Wedding War,Victory,1
+The Iron Islands,301,5,5290,High,1,Red Wedding War,Victory,1
+The Iron Islands,302,5,1082,Low,0,Red Wedding War,Victory,1
+The Iron Islands,303,5,576,Low,0,Red Wedding War,Victory,1
+The Iron Islands,304,5,2813,High,0,Red Wedding War,Victory,1
+The Iron Islands,305,5,5814,High,1,Red Wedding War,Victory,1
+The Iron Islands,306,5,2302,High,0,Red Wedding War,Victory,1
+The Iron Islands,307,5,425,Low,0,Red Wedding War,Victory,1
+The Iron Islands,300,6,1084,Low,0,Dragonstone Uprising,Defeat,0
+The Iron Islands,301,6,3985,High,1,Dragonstone Uprising,Defeat,0
+The Iron Islands,302,6,1861,Low,0,Dragonstone Uprising,Defeat,0
+The North,300,1,2610,High,0,War of the Five Kings,Victory,0
+The North,301,1,3194,High,1,War of the Five Kings,Victory,0
+The North,302,1,4141,High,1,War of the Five Kings,Victory,0
+The North,303,1,1367,Low,0,War of the Five Kings,Victory,0
+The North,304,1,3664,High,1,War of the Five Kings,Victory,0
+The North,305,1,2856,High,0,War of the Five Kings,Victory,0
+The North,300,2,1994,Low,0,Targaryen Rebellion,Victory,0
+The North,301,2,4166,High,1,Targaryen Rebellion,Victory,0
+The North,302,2,4798,High,1,Targaryen Rebellion,Victory,0
+The North,303,2,1965,Low,0,Targaryen Rebellion,Victory,0
+The North,304,2,408,Low,0,Targaryen Rebellion,Victory,0
+The North,305,2,1347,Low,0,Targaryen Rebellion,Victory,0
+The North,306,2,1413,Low,0,Targaryen Rebellion,Victory,0
+The North,307,2,2219,High,0,Targaryen Rebellion,Victory,0
+The North,308,2,240,Low,0,Targaryen Rebellion,Victory,0
+The North,309,2,252,Low,0,Targaryen Rebellion,Victory,0
+The Reach,300,15,4888,High,1,Dornish Intrigue,Ceasefire,0
+The Reach,301,15,1454,Low,0,Dornish Intrigue,Ceasefire,0
+The Reach,300,16,4746,High,1,Martell Uprising,Ongoing,1
+The Reach,301,16,3666,High,1,Martell Uprising,Ongoing,1
+The Reach,302,16,551,Low,0,Martell Uprising,Ongoing,1
+The Reach,303,16,4602,High,1,Martell Uprising,Ongoing,1
+The Reach,304,16,3645,High,1,Martell Uprising,Ongoing,1
+The Reach,305,16,1363,Low,0,Martell Uprising,Ongoing,1
+The Reach,306,16,4885,High,1,Martell Uprising,Ongoing,1
+The Reach,300,17,123,Low,0,Stormlands Strife,Ceasefire,0
+The Reach,301,17,1826,Low,0,Stormlands Strife,Ceasefire,0
+The Reach,302,17,5613,High,1,Stormlands Strife,Ceasefire,0
+The Reach,303,17,2166,High,0,Stormlands Strife,Ceasefire,0
+The Reach,304,17,477,Low,0,Stormlands Strife,Ceasefire,0
+The Reach,305,17,1367,Low,0,Stormlands Strife,Ceasefire,0
+The Reach,306,17,5511,High,1,Stormlands Strife,Ceasefire,0
+The Reach,307,17,1494,Low,0,Stormlands Strife,Ceasefire,0
+The Reach,308,17,410,Low,0,Stormlands Strife,Ceasefire,0
+The Reach,300,18,4861,High,1,Riverlands Revolt,Ongoing,1
+The Reach,301,18,3119,High,1,Riverlands Revolt,Ongoing,1
+The Reach,302,18,1656,Low,0,Riverlands Revolt,Ongoing,1
+The Reach,303,18,698,Low,0,Riverlands Revolt,Ongoing,1
+The Reach,304,18,2861,High,0,Riverlands Revolt,Ongoing,1
+The Reach,305,18,1178,Low,0,Riverlands Revolt,Ongoing,1
+The Reach,306,18,5803,High,1,Riverlands Revolt,Ongoing,1
+The Reach,307,18,3878,High,1,Riverlands Revolt,Ongoing,1
+The Reach,308,18,3048,High,1,Riverlands Revolt,Ongoing,1
+The Reach,300,19,5237,High,1,Westerlands War,Ongoing,0
+The Reach,301,19,2593,High,0,Westerlands War,Ongoing,0
+The Reach,302,19,1750,Low,0,Westerlands War,Ongoing,0
+The Riverlands,300,7,4546,High,1,Winterfell Siege,Ongoing,1
+The Riverlands,301,7,1425,Low,0,Winterfell Siege,Ongoing,1
+The Riverlands,302,7,805,Low,0,Winterfell Siege,Ongoing,1
+The Riverlands,303,7,2857,High,0,Winterfell Siege,Ongoing,1
+The Riverlands,304,7,4451,High,1,Winterfell Siege,Ongoing,1
+The Riverlands,305,7,4827,High,1,Winterfell Siege,Ongoing,1
+The Riverlands,306,7,2545,High,0,Winterfell Siege,Ongoing,1
+The Riverlands,307,7,5428,High,1,Winterfell Siege,Ongoing,1
+The Riverlands,300,8,2026,High,0,Casterly Rock Skirmish,Ongoing,0
+The Riverlands,301,8,557,Low,0,Casterly Rock Skirmish,Ongoing,0
+The Riverlands,302,8,1177,Low,0,Casterly Rock Skirmish,Ongoing,0
+The Riverlands,303,8,5282,High,1,Casterly Rock Skirmish,Ongoing,0
+The Riverlands,304,8,512,Low,0,Casterly Rock Skirmish,Ongoing,0
+The Riverlands,305,8,4332,High,1,Casterly Rock Skirmish,Ongoing,0
+The Riverlands,306,8,1998,Low,0,Casterly Rock Skirmish,Ongoing,0
+The Riverlands,307,8,663,Low,0,Casterly Rock Skirmish,Ongoing,0
+The Riverlands,308,8,2556,High,0,Casterly Rock Skirmish,Ongoing,0
+The Riverlands,300,9,378,Low,0,Harrenhal Revolt,Ongoing,1
+The Riverlands,301,9,5693,High,1,Harrenhal Revolt,Ongoing,1
+The Riverlands,302,9,2365,High,0,Harrenhal Revolt,Ongoing,1
+The Riverlands,303,9,2845,High,0,Harrenhal Revolt,Ongoing,1
+The Riverlands,304,9,2173,High,0,Harrenhal Revolt,Ongoing,1
+The Riverlands,305,9,1055,Low,0,Harrenhal Revolt,Ongoing,1
+The Riverlands,306,9,5771,High,1,Harrenhal Revolt,Ongoing,1
+The Riverlands,307,9,5718,High,1,Harrenhal Revolt,Ongoing,1
+The Riverlands,308,9,1544,Low,0,Harrenhal Revolt,Ongoing,1
+The Riverlands,300,10,5377,High,1,Vale of Arryn Insurrection,Defeat,1
+The Riverlands,301,10,216,Low,0,Vale of Arryn Insurrection,Defeat,1
+The Riverlands,302,10,4078,High,1,Vale of Arryn Insurrection,Defeat,1
+The Riverlands,303,10,2704,High,0,Vale of Arryn Insurrection,Defeat,1
+The Riverlands,304,10,5462,High,1,Vale of Arryn Insurrection,Defeat,1
+The Riverlands,305,10,972,Low,0,Vale of Arryn Insurrection,Defeat,1
+The Riverlands,306,10,856,Low,0,Vale of Arryn Insurrection,Defeat,1
+The Riverlands,307,10,5494,High,1,Vale of Arryn Insurrection,Defeat,1
+The Riverlands,308,10,5868,High,1,Vale of Arryn Insurrection,Defeat,1
+The Riverlands,300,11,5224,High,1,Wildling Invasion,Victory,1
+The Riverlands,301,11,2171,High,0,Wildling Invasion,Victory,1
+The Riverlands,302,11,2086,High,0,Wildling Invasion,Victory,1
+The Riverlands,303,11,5212,High,1,Wildling Invasion,Victory,1
+The Riverlands,304,11,4400,High,1,Wildling Invasion,Victory,1
+The Riverlands,305,11,4468,High,1,Wildling Invasion,Victory,1
+The Stormlands,300,20,1089,Low,0,Iron Islands Incursion,Ongoing,0
+The Stormlands,301,20,5623,High,1,Iron Islands Incursion,Ongoing,0
+The Stormlands,302,20,5835,High,1,Iron Islands Incursion,Ongoing,0
+The Stormlands,303,20,1616,Low,0,Iron Islands Incursion,Ongoing,0
+The Stormlands,304,20,3444,High,1,Iron Islands Incursion,Ongoing,0
+The Stormlands,300,21,1564,Low,0,Faith Militant Resurgence,Defeat,0
+The Stormlands,301,21,317,Low,0,Faith Militant Resurgence,Defeat,0
+The Stormlands,302,21,747,Low,0,Faith Militant Resurgence,Defeat,0
+The Stormlands,303,21,1630,Low,0,Faith Militant Resurgence,Defeat,0
+The Stormlands,304,21,678,Low,0,Faith Militant Resurgence,Defeat,0
+The Stormlands,305,21,521,Low,0,Faith Militant Resurgence,Defeat,0
+The Stormlands,306,21,4819,High,1,Faith Militant Resurgence,Defeat,0
+The Stormlands,307,21,698,Low,0,Faith Militant Resurgence,Defeat,0
+The Stormlands,308,21,3876,High,1,Faith Militant Resurgence,Defeat,0
+The Stormlands,309,21,1003,Low,0,Faith Militant Resurgence,Defeat,0
+The Summer Isles,300,88,3133,High,1,Last Hearth Last Stand,Victory,1
+The Summer Isles,301,88,1367,Low,0,Last Hearth Last Stand,Victory,1
+The Summer Isles,302,88,2609,High,0,Last Hearth Last Stand,Victory,1
+The Summer Isles,303,88,3315,High,1,Last Hearth Last Stand,Victory,1
+The Summer Isles,304,88,4027,High,1,Last Hearth Last Stand,Victory,1
+The Summer Isles,305,88,1729,Low,0,Last Hearth Last Stand,Victory,1
+The Summer Isles,306,88,4185,High,1,Last Hearth Last Stand,Victory,1
+The Summer Isles,307,88,5406,High,1,Last Hearth Last Stand,Victory,1
+The Summer Isles,308,88,5284,High,1,Last Hearth Last Stand,Victory,1
+The Summer Isles,300,89,2703,High,0,Karhold Confrontation,Ongoing,1
+The Summer Isles,301,89,1453,Low,0,Karhold Confrontation,Ongoing,1
+The Summer Isles,302,89,3623,High,1,Karhold Confrontation,Ongoing,1
+The Summer Isles,303,89,2534,High,0,Karhold Confrontation,Ongoing,1
+The Summer Isles,304,89,5230,High,1,Karhold Confrontation,Ongoing,1
+The Summer Isles,305,89,5334,High,1,Karhold Confrontation,Ongoing,1
+The Summer Isles,306,89,4120,High,1,Karhold Confrontation,Ongoing,1
+The Summer Isles,300,90,3902,High,1,Deepwood Motte Battle,Ceasefire,0
+The Summer Isles,301,90,395,Low,0,Deepwood Motte Battle,Ceasefire,0
+The Summer Isles,302,90,2354,High,0,Deepwood Motte Battle,Ceasefire,0
+The Summer Isles,303,90,1552,Low,0,Deepwood Motte Battle,Ceasefire,0
+The Summer Isles,304,90,769,Low,0,Deepwood Motte Battle,Ceasefire,0
+The Summer Isles,305,90,3949,High,1,Deepwood Motte Battle,Ceasefire,0
+The Summer Isles,306,90,5330,High,1,Deepwood Motte Battle,Ceasefire,0
+The Summer Isles,307,90,635,Low,0,Deepwood Motte Battle,Ceasefire,0
+The Summer Isles,308,90,2187,High,0,Deepwood Motte Battle,Ceasefire,0
+The Summer Isles,300,91,3548,High,1,White Harbor War,Victory,0
+The Summer Isles,301,91,542,Low,0,White Harbor War,Victory,0
+The Summer Isles,302,91,3431,High,1,White Harbor War,Victory,0
+The Summer Isles,303,91,4399,High,1,White Harbor War,Victory,0
+The Summer Isles,304,91,1914,Low,0,White Harbor War,Victory,0
+The Summer Isles,300,92,3499,High,1,Dreadfort Rebellion,Victory,0
+The Summer Isles,301,92,386,Low,0,Dreadfort Rebellion,Victory,0
+The Summer Isles,302,92,2068,High,0,Dreadfort Rebellion,Victory,0
+The Summer Isles,303,92,175,Low,0,Dreadfort Rebellion,Victory,0
+The Wall,300,58,1710,Low,0,Old Gods Revival,Victory,0
+The Wall,301,58,2691,High,0,Old Gods Revival,Victory,0
+The Wall,302,58,1720,Low,0,Old Gods Revival,Victory,0
+The Wall,303,58,2337,High,0,Old Gods Revival,Victory,0
+The Wall,304,58,4009,High,1,Old Gods Revival,Victory,0
+The Wall,305,58,2883,High,0,Old Gods Revival,Victory,0
+The Wall,300,59,446,Low,0,Drowned God War,Defeat,0
+The Wall,301,59,1935,Low,0,Drowned God War,Defeat,0
+The Wall,300,60,2469,High,0,Many-Faced God Conflict,Victory,0
+The Wall,301,60,176,Low,0,Many-Faced God Conflict,Victory,0
+The Wall,302,60,5436,High,1,Many-Faced God Conflict,Victory,0
+The Wall,300,61,2007,High,0,War of the Green Hand,Ceasefire,0
+The Wall,301,61,2953,High,0,War of the Green Hand,Ceasefire,0
+The Wall,302,61,2133,High,0,War of the Green Hand,Ceasefire,0
+The Wall,303,61,5788,High,1,War of the Green Hand,Ceasefire,0
+The Wall,304,61,4831,High,1,War of the Green Hand,Ceasefire,0
+The Wall,305,61,135,Low,0,War of the Green Hand,Ceasefire,0
+The Wall,306,61,3067,High,1,War of the Green Hand,Ceasefire,0
+The Wall,300,62,3010,High,1,Battle of the Trident,Ongoing,0
+The Wall,301,62,4418,High,1,Battle of the Trident,Ongoing,0
+The Wall,302,62,4808,High,1,Battle of the Trident,Ongoing,0
+The Wall,303,62,5947,High,1,Battle of the Trident,Ongoing,0
+The Westerlands,300,12,3790,High,1,Skirling Pass Conflict,Victory,0
+The Westerlands,301,12,1440,Low,0,Skirling Pass Conflict,Victory,0
+The Westerlands,302,12,4310,High,1,Skirling Pass Conflict,Victory,0
+The Westerlands,300,13,5370,High,1,Battle of Blackwater,Ongoing,1
+The Westerlands,301,13,2997,High,0,Battle of Blackwater,Ongoing,1
+The Westerlands,302,13,1481,Low,0,Battle of Blackwater,Ongoing,1
+The Westerlands,303,13,5985,High,1,Battle of Blackwater,Ongoing,1
+The Westerlands,304,13,5444,High,1,Battle of Blackwater,Ongoing,1
+The Westerlands,305,13,3988,High,1,Battle of Blackwater,Ongoing,1
+The Westerlands,306,13,4960,High,1,Battle of Blackwater,Ongoing,1
+The Westerlands,307,13,4737,High,1,Battle of Blackwater,Ongoing,1
+The Westerlands,308,13,1461,Low,0,Battle of Blackwater,Ongoing,1
+The Westerlands,300,14,5450,High,1,Tyrell Confrontation,Defeat,0
+The Westerlands,301,14,130,Low,0,Tyrell Confrontation,Defeat,0
+Volantis,300,36,4697,High,1,Myr Uprising,Ceasefire,1
+Volantis,301,36,5203,High,1,Myr Uprising,Ceasefire,1
+Volantis,302,36,1821,Low,0,Myr Uprising,Ceasefire,1
+Volantis,303,36,4349,High,1,Myr Uprising,Ceasefire,1
+Volantis,304,36,529,Low,0,Myr Uprising,Ceasefire,1
+Volantis,305,36,2897,High,0,Myr Uprising,Ceasefire,1
+Volantis,306,36,3715,High,1,Myr Uprising,Ceasefire,1
+Volantis,300,37,2805,High,0,Qohor War,Ceasefire,1
+Volantis,301,37,3614,High,1,Qohor War,Ceasefire,1
+Volantis,302,37,3803,High,1,Qohor War,Ceasefire,1
+Volantis,303,37,614,Low,0,Qohor War,Ceasefire,1
+Volantis,304,37,150,Low,0,Qohor War,Ceasefire,1
+Volantis,305,37,5058,High,1,Qohor War,Ceasefire,1
+Volantis,306,37,4246,High,1,Qohor War,Ceasefire,1
+Volantis,307,37,4941,High,1,Qohor War,Ceasefire,1
+Volantis,308,37,1750,Low,0,Qohor War,Ceasefire,1
